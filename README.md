@@ -39,3 +39,63 @@ What could you add to this system to prevent players from waiting too long for a
 Modify the previous code.
 
 IDEA: some sort of priority queue for players with long wait times.
+
+# Running the Application
+
+## Using Docker
+
+### Build the Docker image
+```bash
+docker build -t tt-matchmaker .
+```
+
+### Run the container
+```bash
+docker run -p 8080:8080 tt-matchmaker
+```
+
+The application will be accessible at `http://localhost:8080`
+
+### API Documentation
+Once running, visit:
+- Swagger UI: `http://localhost:8080/docs`
+- ReDoc: `http://localhost:8080/redoc`
+
+## Making Requests with Example Data
+
+### Send requests using curl
+
+#### Simple Matchmaking
+```bash
+curl -X POST http://localhost:8080/matches/simple \
+  -H "Content-Type: application/json" \
+  -d @simple_players_input.json
+```
+
+#### Squad Matchmaking
+```bash
+curl -X POST http://localhost:8080/matches/squad \
+  -H "Content-Type: application/json" \
+  -d @squad_players_input.json
+```
+
+#### Waitlist Squad Matchmaking (with timestamps)
+```bash
+curl -X POST http://localhost:8080/matches/waitlist \
+  -H "Content-Type: application/json" \
+  -d @waitlist_squad_players_input.json
+```
+
+### Example request format
+```json
+{
+  "players": [
+    {
+      "ID": "0x1A2B3C",
+      "Skill": 1500,
+      "SquadId": -1,
+      "EpochTimestamp": 1733850000
+    }
+  ]
+}
+```

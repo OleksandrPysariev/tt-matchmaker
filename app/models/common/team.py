@@ -16,7 +16,6 @@ class Team(BaseModel):
     ] = list()
 
     def calc_disbalance(self) -> float:
-        # Calculate mean absolute deviation to find team skill variance.
         players_skill_list = [player.skill for player in self.players]
         mean_skill = sum(players_skill_list) / len(players_skill_list)
         return round(

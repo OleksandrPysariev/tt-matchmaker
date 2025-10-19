@@ -29,8 +29,8 @@ class SquadPlayer(Player):
 
 
 class WaitlistSquadPlayer(SquadPlayer):
-    wait_time_sec: int = Field(
-        alias="WaitTimeSec",
-        description="Wait time of player in queue in seconds.",
-        examples=[0, 5, 360]
+    epoch_timestamp: int = Field(
+        alias="EpochTimestamp",
+        description="Unix epoch timestamp when the player joined the queue.",
+        examples=[1733846400, 1733850000, 1733853600]
     )

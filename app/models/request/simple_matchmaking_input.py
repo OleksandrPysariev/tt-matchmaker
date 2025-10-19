@@ -11,8 +11,8 @@ class SimpleMatchmakingInput(SimpleMatchmaking):
 
 
 class SquadMatchmakingInput(SquadMatchmaking):
-    players: list[SquadPlayer]
+    players: Annotated[list[SquadPlayer], Field(max_length=2000, min_length=1000)]
 
 
 class WaitlistSquadMatchmakingInput(WaitlistSquadMatchmaking):
-    players: list[WaitlistSquadPlayer]
+    players: Annotated[list[WaitlistSquadPlayer], Field(max_length=2000, min_length=1000)]

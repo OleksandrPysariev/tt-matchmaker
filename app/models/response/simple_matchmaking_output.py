@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-from app.models.common.match import Match
+from app.models.common.match import Match, WaitlistSquadMatch, SquadMatch
 
 
 class SimpleMatchmakingOutput(BaseModel):
@@ -8,8 +8,8 @@ class SimpleMatchmakingOutput(BaseModel):
 
 
 class SquadMatchmakingOutput(SimpleMatchmakingOutput):
-    pass
+    matches: list[SquadMatch] | None
 
 
 class WaitlistSquadMatchmakingOutput(SquadMatchmakingOutput):
-    pass
+    matches: list[WaitlistSquadMatch] | None
