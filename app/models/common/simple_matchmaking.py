@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 
+from app.models.common.match import Match, SquadMatch, WaitlistSquadMatch
 from app.models.common.player import Player, SquadPlayer, WaitlistSquadPlayer
 
 

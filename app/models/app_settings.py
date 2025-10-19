@@ -17,5 +17,10 @@ class FastAPISettings(AppBaseSettings):
     model_config = SettingsConfigDict(env_prefix="fastapi")
 
 
+class MatchmakingSettings(AppBaseSettings):
+    max_team_size: int = 6
+
+
 class Settings(BaseSettings):
     fastapi: FastAPISettings = FastAPISettings()
+    matchmaking: MatchmakingSettings = MatchmakingSettings()

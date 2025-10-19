@@ -6,5 +6,5 @@ from app.models.common.player import Player
 
 class BaseMatchmakingService(ABC):
     @abstractmethod
-    def do_matchmaking(self, players: list[Player]) -> Match:
+    def do_matchmaking(self, players: list[Player]) -> list[Match] | None:
         pass

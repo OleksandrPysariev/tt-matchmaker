@@ -1,0 +1,10004 @@
+{
+  "players": [
+    {
+      "ID": "0x356565",
+      "Skill": 1780,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74CA12",
+      "Skill": 654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x385A1F",
+      "Skill": 1970,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB12A31",
+      "Skill": 1342,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x726068",
+      "Skill": 2261,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4DB8BA",
+      "Skill": 1251,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBD7D5D",
+      "Skill": 2076,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEB3323",
+      "Skill": 1541,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x91C720",
+      "Skill": 794,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA6C51E",
+      "Skill": 1057,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5199F9",
+      "Skill": 948,
+      "SquadId": 1
+    },
+    {
+      "ID": "0x39148B",
+      "Skill": 668,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9E3496",
+      "Skill": 1750,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA980CD",
+      "Skill": 2325,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x62769C",
+      "Skill": 1301,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x18BA5A",
+      "Skill": 1153,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x99FD70",
+      "Skill": 1227,
+      "SquadId": 1
+    },
+    {
+      "ID": "0x320D39",
+      "Skill": 1085,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8B5D2",
+      "Skill": 1625,
+      "SquadId": 1
+    },
+    {
+      "ID": "0x8237C0",
+      "Skill": 802,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5A9FDE",
+      "Skill": 1475,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBBE85C",
+      "Skill": 2402,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1ABB33",
+      "Skill": 1537,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x14B647",
+      "Skill": 1095,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC202DA",
+      "Skill": 1533,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2D21D1",
+      "Skill": 1344,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x61E667",
+      "Skill": 1489,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74D34A",
+      "Skill": 1722,
+      "SquadId": 1
+    },
+    {
+      "ID": "0x7D66B1",
+      "Skill": 1384,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x22F55E",
+      "Skill": 1502,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC716F",
+      "Skill": 1741,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBA283D",
+      "Skill": 1451,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC391AE",
+      "Skill": 2477,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x700E0B",
+      "Skill": 1378,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49DCEC",
+      "Skill": 1793,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15526D",
+      "Skill": 1319,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB49D70",
+      "Skill": 1368,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x56550D",
+      "Skill": 1830,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6310FE",
+      "Skill": 1617,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x637FCC",
+      "Skill": 1515,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x744B9D",
+      "Skill": 2452,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA3E812",
+      "Skill": 1939,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD0A2D3",
+      "Skill": 1777,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x83730B",
+      "Skill": 1943,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xADF9AA",
+      "Skill": 1049,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x302E4A",
+      "Skill": 1422,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x54D88C",
+      "Skill": 1163,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x33120E",
+      "Skill": 1248,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7E0940",
+      "Skill": 1036,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5E3384",
+      "Skill": 1253,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x920099",
+      "Skill": 1138,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1344EF",
+      "Skill": 1493,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2ABA44",
+      "Skill": 2440,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x39050A",
+      "Skill": 2021,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x408985",
+      "Skill": 1618,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC240F7",
+      "Skill": 2047,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF60A1F",
+      "Skill": 1300,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x28E173",
+      "Skill": 1713,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC162FC",
+      "Skill": 2178,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A6924",
+      "Skill": 1561,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE18395",
+      "Skill": 1481,
+      "SquadId": 1
+    },
+    {
+      "ID": "0xCAC2D8",
+      "Skill": 1730,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD9E82E",
+      "Skill": 1761,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA908DC",
+      "Skill": 1744,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC75E38",
+      "Skill": 1421,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2DE134",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0B5B5",
+      "Skill": 928,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF7DB45",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBFA469",
+      "Skill": 1779,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC571AF",
+      "Skill": 1264,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC035D1",
+      "Skill": 1359,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFF278B",
+      "Skill": 1143,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x390116",
+      "Skill": 1176,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4AA351",
+      "Skill": 1511,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE9B86B",
+      "Skill": 1285,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE11E72",
+      "Skill": 871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6FF92C",
+      "Skill": 1351,
+      "SquadId": 1
+    },
+    {
+      "ID": "0x4B928D",
+      "Skill": 1663,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xECB17C",
+      "Skill": 1099,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6BB6FD",
+      "Skill": 1481,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x426454",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4EA901",
+      "Skill": 1342,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x389834",
+      "Skill": 1747,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12C67F",
+      "Skill": 1023,
+      "SquadId": 2
+    },
+    {
+      "ID": "0xE89932",
+      "Skill": 2044,
+      "SquadId": 2
+    },
+    {
+      "ID": "0xC06481",
+      "Skill": 1236,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDBA771",
+      "Skill": 1483,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x794A64",
+      "Skill": 1421,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49D126",
+      "Skill": 1355,
+      "SquadId": 2
+    },
+    {
+      "ID": "0x43BEAC",
+      "Skill": 1933,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB7F11E",
+      "Skill": 1320,
+      "SquadId": 3
+    },
+    {
+      "ID": "0xFC7EFA",
+      "Skill": 1317,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x24280C",
+      "Skill": 1610,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xADF464",
+      "Skill": 517,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EBF92",
+      "Skill": 2159,
+      "SquadId": 3
+    },
+    {
+      "ID": "0x303DC5",
+      "Skill": 1397,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x165A1C",
+      "Skill": 1920,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x165C0C",
+      "Skill": 1275,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD91EEB",
+      "Skill": 2173,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB8455",
+      "Skill": 1955,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x780446",
+      "Skill": 1333,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDE220E",
+      "Skill": 1532,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x16732E",
+      "Skill": 1859,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D5197",
+      "Skill": 2010,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA32556",
+      "Skill": 2080,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9DA41",
+      "Skill": 1349,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF18AFC",
+      "Skill": 2063,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3AF98E",
+      "Skill": 1408,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB09699",
+      "Skill": 1914,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB2529",
+      "Skill": 1758,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEB6E0C",
+      "Skill": 1673,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9582C8",
+      "Skill": 1404,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x949A19",
+      "Skill": 1813,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF06448",
+      "Skill": 1588,
+      "SquadId": 4
+    },
+    {
+      "ID": "0x96D453",
+      "Skill": 1108,
+      "SquadId": 4
+    },
+    {
+      "ID": "0xFE7882",
+      "Skill": 801,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1B414",
+      "Skill": 1254,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x147FE3",
+      "Skill": 1826,
+      "SquadId": 4
+    },
+    {
+      "ID": "0x3D8ABD",
+      "Skill": 1282,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA8656",
+      "Skill": 1178,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x781803",
+      "Skill": 2047,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xECE653",
+      "Skill": 1051,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF4A371",
+      "Skill": 1683,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x824F40",
+      "Skill": 1775,
+      "SquadId": 4
+    },
+    {
+      "ID": "0xF1BE9B",
+      "Skill": 1716,
+      "SquadId": 4
+    },
+    {
+      "ID": "0xC5A8C0",
+      "Skill": 1239,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1D7060",
+      "Skill": 1681,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD3B00",
+      "Skill": 1863,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C2A58",
+      "Skill": 2218,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEBCBCC",
+      "Skill": 846,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C3269",
+      "Skill": 1434,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x753D7D",
+      "Skill": 1869,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCEF18E",
+      "Skill": 1436,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC4B08C",
+      "Skill": 1371,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA722BA",
+      "Skill": 1343,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F8A00",
+      "Skill": 1316,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x99A7BD",
+      "Skill": 1095,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5C68AF",
+      "Skill": 1988,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x31FEB7",
+      "Skill": 1141,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E9B85",
+      "Skill": 1282,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8DDEDF",
+      "Skill": 1732,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66393D",
+      "Skill": 938,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1A939",
+      "Skill": 2257,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE60F9F",
+      "Skill": 1169,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEA8137",
+      "Skill": 1720,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB442E",
+      "Skill": 828,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF38E3",
+      "Skill": 1536,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5FF056",
+      "Skill": 1208,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9CB224",
+      "Skill": 1709,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84A34D",
+      "Skill": 892,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x35E5A6",
+      "Skill": 2048,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE93EAB",
+      "Skill": 1329,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12D049",
+      "Skill": 2120,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBCFEA3",
+      "Skill": 1285,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x631D2F",
+      "Skill": 1669,
+      "SquadId": 5
+    },
+    {
+      "ID": "0x8111E0",
+      "Skill": 1540,
+      "SquadId": 5
+    },
+    {
+      "ID": "0x694018",
+      "Skill": 1904,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC945C",
+      "Skill": 1784,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE6FF58",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6EB831",
+      "Skill": 1360,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF155B2",
+      "Skill": 2143,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xED77EF",
+      "Skill": 1347,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE43C7C",
+      "Skill": 1318,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4230B8",
+      "Skill": 1133,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x874790",
+      "Skill": 1395,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8673F5",
+      "Skill": 1636,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x824CB6",
+      "Skill": 1180,
+      "SquadId": 5
+    },
+    {
+      "ID": "0x97B3C0",
+      "Skill": 1266,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA4E876",
+      "Skill": 1594,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x596833",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4423F",
+      "Skill": 1037,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB96BC0",
+      "Skill": 1926,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8FDFA7",
+      "Skill": 1716,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF542A5",
+      "Skill": 1521,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAE3E7A",
+      "Skill": 1903,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCDCFBF",
+      "Skill": 1636,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA692FF",
+      "Skill": 630,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3607C3",
+      "Skill": 1220,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D5EC5",
+      "Skill": 1212,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9BE9D2",
+      "Skill": 1391,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1AFDD5",
+      "Skill": 2526,
+      "SquadId": 5
+    },
+    {
+      "ID": "0x729CF4",
+      "Skill": 1795,
+      "SquadId": 5
+    },
+    {
+      "ID": "0xC1705F",
+      "Skill": 1345,
+      "SquadId": 5
+    },
+    {
+      "ID": "0x9375E2",
+      "Skill": 2182,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x471ECB",
+      "Skill": 2290,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x79744B",
+      "Skill": 1710,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD9CFCA",
+      "Skill": 1589,
+      "SquadId": 6
+    },
+    {
+      "ID": "0x7F3390",
+      "Skill": 1572,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A1402",
+      "Skill": 923,
+      "SquadId": 6
+    },
+    {
+      "ID": "0x90B079",
+      "Skill": 957,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3F8E33",
+      "Skill": 1463,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE265D8",
+      "Skill": 1938,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAE6B92",
+      "Skill": 1442,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC64FC3",
+      "Skill": 945,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDBBA31",
+      "Skill": 2159,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD6C228",
+      "Skill": 1339,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF24BFC",
+      "Skill": 1591,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8EAFE",
+      "Skill": 1239,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2659E",
+      "Skill": 1171,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEAAEF0",
+      "Skill": 2142,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66DCA5",
+      "Skill": 1665,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x451949",
+      "Skill": 1797,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B12B2",
+      "Skill": 655,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x41C2E7",
+      "Skill": 1806,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF63EB9",
+      "Skill": 1612,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD8BBFA",
+      "Skill": 1578,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1825CF",
+      "Skill": 1648,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x967141",
+      "Skill": 1272,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD754E9",
+      "Skill": 1800,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B1CBF",
+      "Skill": 1360,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x69398C",
+      "Skill": 1527,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB314A2",
+      "Skill": 803,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xADFA3A",
+      "Skill": 1137,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E9D69",
+      "Skill": 2303,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB3BE3",
+      "Skill": 999,
+      "SquadId": 6
+    },
+    {
+      "ID": "0x6B1BAD",
+      "Skill": 1567,
+      "SquadId": 7
+    },
+    {
+      "ID": "0x8A36C3",
+      "Skill": 1631,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2BE77A",
+      "Skill": 824,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6939CF",
+      "Skill": 1071,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8373F",
+      "Skill": 555,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15DF4B",
+      "Skill": 1580,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB305A2",
+      "Skill": 1177,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD64113",
+      "Skill": 2041,
+      "SquadId": 7
+    },
+    {
+      "ID": "0x927542",
+      "Skill": 1524,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE238F9",
+      "Skill": 1550,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5D6030",
+      "Skill": 973,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCA0256",
+      "Skill": 1374,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37692F",
+      "Skill": 1275,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE21B87",
+      "Skill": 2079,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84EB4D",
+      "Skill": 759,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4E6E1B",
+      "Skill": 1450,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4F1D21",
+      "Skill": 1458,
+      "SquadId": 7
+    },
+    {
+      "ID": "0x7A641C",
+      "Skill": 1353,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBAB23D",
+      "Skill": 1563,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C03F4",
+      "Skill": 806,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FFABD",
+      "Skill": 1413,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x34262E",
+      "Skill": 1423,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x182813",
+      "Skill": 862,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1966C5",
+      "Skill": 1130,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10ABFA",
+      "Skill": 2165,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCD4486",
+      "Skill": 1996,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7D50B7",
+      "Skill": 1029,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBFECE0",
+      "Skill": 1215,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7045DF",
+      "Skill": 1458,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF5F8CA",
+      "Skill": 1317,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD60503",
+      "Skill": 1216,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF77E12",
+      "Skill": 1595,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E3454",
+      "Skill": 1615,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB135C0",
+      "Skill": 1729,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8732EE",
+      "Skill": 1479,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x376B6A",
+      "Skill": 2299,
+      "SquadId": 8
+    },
+    {
+      "ID": "0x1BDDFA",
+      "Skill": 1193,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB87194",
+      "Skill": 1932,
+      "SquadId": 8
+    },
+    {
+      "ID": "0x4F5BA8",
+      "Skill": 961,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1834EC",
+      "Skill": 986,
+      "SquadId": 8
+    },
+    {
+      "ID": "0xBF0297",
+      "Skill": 1249,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8A6E61",
+      "Skill": 836,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD1211",
+      "Skill": 1208,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8EB079",
+      "Skill": 1363,
+      "SquadId": 8
+    },
+    {
+      "ID": "0x59F943",
+      "Skill": 1222,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEFD37C",
+      "Skill": 1447,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8B046D",
+      "Skill": 1688,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1FE4F",
+      "Skill": 2100,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3AC0B8",
+      "Skill": 1524,
+      "SquadId": 9
+    },
+    {
+      "ID": "0xFC05D7",
+      "Skill": 2464,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x521F6E",
+      "Skill": 1805,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x284548",
+      "Skill": 1822,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x45EC20",
+      "Skill": 1518,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x505361",
+      "Skill": 1139,
+      "SquadId": 9
+    },
+    {
+      "ID": "0x511859",
+      "Skill": 992,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF9DA1",
+      "Skill": 1274,
+      "SquadId": 10
+    },
+    {
+      "ID": "0x7AA7EA",
+      "Skill": 1152,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA98FC",
+      "Skill": 1056,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE6C3BC",
+      "Skill": 1110,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x976729",
+      "Skill": 2238,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBA0E05",
+      "Skill": 1869,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CE78C",
+      "Skill": 1658,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB4BEAF",
+      "Skill": 1347,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x35E6D3",
+      "Skill": 1786,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDF5C4F",
+      "Skill": 1433,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4567F",
+      "Skill": 945,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFCAFC8",
+      "Skill": 1148,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A361A",
+      "Skill": 1164,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x93E661",
+      "Skill": 1163,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE58C49",
+      "Skill": 1897,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x668CEB",
+      "Skill": 1184,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB7FBC6",
+      "Skill": 921,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F10D7",
+      "Skill": 1539,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD7774C",
+      "Skill": 1094,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA9A90",
+      "Skill": 1503,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB72429",
+      "Skill": 1254,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x67D326",
+      "Skill": 1719,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F110E",
+      "Skill": 957,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x302449",
+      "Skill": 1615,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCFA680",
+      "Skill": 1732,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD62657",
+      "Skill": 1026,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB4F71A",
+      "Skill": 1145,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC5859",
+      "Skill": 2185,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE45C4",
+      "Skill": 1536,
+      "SquadId": 10
+    },
+    {
+      "ID": "0xE66137",
+      "Skill": 2308,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x567531",
+      "Skill": 1345,
+      "SquadId": 11
+    },
+    {
+      "ID": "0x746EA4",
+      "Skill": 1511,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC99E88",
+      "Skill": 2252,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x68C62C",
+      "Skill": 1240,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6143BD",
+      "Skill": 1277,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC80323",
+      "Skill": 1920,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB930A2",
+      "Skill": 2229,
+      "SquadId": 11
+    },
+    {
+      "ID": "0xB19D5C",
+      "Skill": 2319,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3ECF79",
+      "Skill": 1395,
+      "SquadId": 12
+    },
+    {
+      "ID": "0x6C802D",
+      "Skill": 1680,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13A143",
+      "Skill": 1262,
+      "SquadId": 12
+    },
+    {
+      "ID": "0xEB4742",
+      "Skill": 1542,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD826F4",
+      "Skill": 1134,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76F5CB",
+      "Skill": 1287,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3268FD",
+      "Skill": 2071,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6AADBF",
+      "Skill": 901,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF3C0F",
+      "Skill": 2015,
+      "SquadId": 12
+    },
+    {
+      "ID": "0x8E63A6",
+      "Skill": 1582,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCAECF4",
+      "Skill": 674,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA11EC9",
+      "Skill": 1309,
+      "SquadId": 12
+    },
+    {
+      "ID": "0x38319F",
+      "Skill": 1132,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x65F1DE",
+      "Skill": 1457,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCF4E0E",
+      "Skill": 1403,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37570B",
+      "Skill": 1732,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x980F5E",
+      "Skill": 1989,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C3479",
+      "Skill": 1458,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD24A4D",
+      "Skill": 932,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74D0D8",
+      "Skill": 2074,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5B83FC",
+      "Skill": 1928,
+      "SquadId": 12
+    },
+    {
+      "ID": "0x30D499",
+      "Skill": 1725,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD1690B",
+      "Skill": 1659,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x532FE3",
+      "Skill": 1959,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9CF32E",
+      "Skill": 1499,
+      "SquadId": 12
+    },
+    {
+      "ID": "0xCC3124",
+      "Skill": 1843,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xECF128",
+      "Skill": 2365,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE12A83",
+      "Skill": 1318,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x977957",
+      "Skill": 974,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4E4E85",
+      "Skill": 1370,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x23A0F8",
+      "Skill": 1021,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x86870D",
+      "Skill": 1387,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCA4D0A",
+      "Skill": 1073,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5EB80E",
+      "Skill": 914,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x196D5A",
+      "Skill": 1287,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFBF29F",
+      "Skill": 1011,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9BCF6B",
+      "Skill": 1487,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x787CFB",
+      "Skill": 1073,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F39B8",
+      "Skill": 1881,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5A1EBB",
+      "Skill": 1449,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA64EA4",
+      "Skill": 1344,
+      "SquadId": 13
+    },
+    {
+      "ID": "0xC17FAD",
+      "Skill": 1883,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74D54A",
+      "Skill": 941,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A4232",
+      "Skill": 2266,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEADD91",
+      "Skill": 1207,
+      "SquadId": 13
+    },
+    {
+      "ID": "0x89F259",
+      "Skill": 2177,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x963C81",
+      "Skill": 392,
+      "SquadId": 13
+    },
+    {
+      "ID": "0x395D91",
+      "Skill": 909,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D8725",
+      "Skill": 1505,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7EDBEF",
+      "Skill": 2000,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x408AC4",
+      "Skill": 2163,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x550E26",
+      "Skill": 1748,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x96AAD3",
+      "Skill": 1954,
+      "SquadId": 13
+    },
+    {
+      "ID": "0x4FE71C",
+      "Skill": 1325,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD44B1",
+      "Skill": 2120,
+      "SquadId": 13
+    },
+    {
+      "ID": "0x5DAF70",
+      "Skill": 1753,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x77422A",
+      "Skill": 1729,
+      "SquadId": 13
+    },
+    {
+      "ID": "0x7AE153",
+      "Skill": 1270,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDAE30F",
+      "Skill": 1274,
+      "SquadId": 14
+    },
+    {
+      "ID": "0x989916",
+      "Skill": 1281,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2916A",
+      "Skill": 1904,
+      "SquadId": 14
+    },
+    {
+      "ID": "0x6AB3F4",
+      "Skill": 1043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE987F8",
+      "Skill": 1615,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1B2D7C",
+      "Skill": 1493,
+      "SquadId": 14
+    },
+    {
+      "ID": "0xB71B9D",
+      "Skill": 1586,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x448B45",
+      "Skill": 1994,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC67925",
+      "Skill": 1579,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x250C7A",
+      "Skill": 1638,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xED2E56",
+      "Skill": 1920,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB8E46",
+      "Skill": 2082,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD3CC31",
+      "Skill": 1475,
+      "SquadId": 14
+    },
+    {
+      "ID": "0x3ECE51",
+      "Skill": 798,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9B859",
+      "Skill": 1592,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF5CF7E",
+      "Skill": 650,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x53ED15",
+      "Skill": 843,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x96E3B2",
+      "Skill": 2038,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9CB2E4",
+      "Skill": 1168,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x525707",
+      "Skill": 2194,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7D0278",
+      "Skill": 1857,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE0CDD4",
+      "Skill": 1375,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8132B",
+      "Skill": 1258,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FA2B1",
+      "Skill": 950,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE9CBC",
+      "Skill": 2082,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA9F089",
+      "Skill": 1187,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE3072A",
+      "Skill": 2159,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4FFA99",
+      "Skill": 988,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CF0FB",
+      "Skill": 1016,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF1414",
+      "Skill": 1644,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2EAE71",
+      "Skill": 800,
+      "SquadId": 14
+    },
+    {
+      "ID": "0x11B2C1",
+      "Skill": 1160,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFFCBF3",
+      "Skill": 1707,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7DEE66",
+      "Skill": 1887,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x153083",
+      "Skill": 1297,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4A889",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x684653",
+      "Skill": 1711,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x89FD00",
+      "Skill": 1207,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x372C49",
+      "Skill": 1548,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B1E69",
+      "Skill": 691,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7264A4",
+      "Skill": 1077,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5993DE",
+      "Skill": 507,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1CA643",
+      "Skill": 922,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFBE13F",
+      "Skill": 1226,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x316F34",
+      "Skill": 1448,
+      "SquadId": 15
+    },
+    {
+      "ID": "0x9E90B3",
+      "Skill": 1339,
+      "SquadId": 15
+    },
+    {
+      "ID": "0xC097BF",
+      "Skill": 1784,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D65A1",
+      "Skill": 921,
+      "SquadId": 15
+    },
+    {
+      "ID": "0x27DBC1",
+      "Skill": 1740,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAF23BB",
+      "Skill": 1478,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x70EC5C",
+      "Skill": 1961,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2D2FE0",
+      "Skill": 354,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x90B5C2",
+      "Skill": 1238,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8554C4",
+      "Skill": 1563,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD62D2A",
+      "Skill": 1742,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E9D0D",
+      "Skill": 1452,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9E4E75",
+      "Skill": 1865,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1BC82C",
+      "Skill": 536,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDADB3E",
+      "Skill": 2135,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFF6F41",
+      "Skill": 1289,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC4D40E",
+      "Skill": 1657,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5444C5",
+      "Skill": 1956,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3653B1",
+      "Skill": 1595,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE64B97",
+      "Skill": 1837,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9F2CC",
+      "Skill": 1223,
+      "SquadId": 15
+    },
+    {
+      "ID": "0x8B3BD0",
+      "Skill": 2010,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC91D90",
+      "Skill": 1407,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF079E2",
+      "Skill": 410,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFF6691",
+      "Skill": 1329,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x88A8EE",
+      "Skill": 1478,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x45107B",
+      "Skill": 1610,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8B1CCF",
+      "Skill": 1549,
+      "SquadId": 15
+    },
+    {
+      "ID": "0xFF7BEA",
+      "Skill": 1445,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE0579A",
+      "Skill": 964,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C0CD7",
+      "Skill": 1617,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9DC2F2",
+      "Skill": 2249,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEC675D",
+      "Skill": 1867,
+      "SquadId": 15
+    },
+    {
+      "ID": "0x196E71",
+      "Skill": 1507,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1B851F",
+      "Skill": 1745,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12657F",
+      "Skill": 1495,
+      "SquadId": 16
+    },
+    {
+      "ID": "0x1EE1C0",
+      "Skill": 1730,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xABDECA",
+      "Skill": 2586,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4FADAF",
+      "Skill": 1213,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC75FC9",
+      "Skill": 919,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC54CE",
+      "Skill": 1387,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x28051B",
+      "Skill": 1650,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xECAFDA",
+      "Skill": 1462,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3F1F53",
+      "Skill": 1000,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x143027",
+      "Skill": 1265,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD1367",
+      "Skill": 1626,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE5A4DA",
+      "Skill": 1781,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE0ABBA",
+      "Skill": 1098,
+      "SquadId": 16
+    },
+    {
+      "ID": "0x537FDB",
+      "Skill": 1083,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD56F7C",
+      "Skill": 1772,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD1ED49",
+      "Skill": 2143,
+      "SquadId": 16
+    },
+    {
+      "ID": "0xD0DB79",
+      "Skill": 1072,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7D3057",
+      "Skill": 1434,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE78AA5",
+      "Skill": 1713,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6EF133",
+      "Skill": 1857,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB0B2C",
+      "Skill": 2319,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5332EE",
+      "Skill": 2245,
+      "SquadId": 16
+    },
+    {
+      "ID": "0x7A10E9",
+      "Skill": 1556,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5B1661",
+      "Skill": 926,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6668FE",
+      "Skill": 1852,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x22D8A7",
+      "Skill": 1950,
+      "SquadId": 17
+    },
+    {
+      "ID": "0xE11A42",
+      "Skill": 1595,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D8F42",
+      "Skill": 1425,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F224E",
+      "Skill": 2192,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCED040",
+      "Skill": 1405,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFF5823",
+      "Skill": 1975,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA363A0",
+      "Skill": 1045,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB65AFE",
+      "Skill": 1277,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA5C73",
+      "Skill": 2184,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB79CE6",
+      "Skill": 1846,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x73D3FF",
+      "Skill": 1035,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2790CA",
+      "Skill": 1641,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x839975",
+      "Skill": 1491,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x16C9C0",
+      "Skill": 1629,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8CEBE",
+      "Skill": 1554,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9DF1C4",
+      "Skill": 1144,
+      "SquadId": 17
+    },
+    {
+      "ID": "0x8E5517",
+      "Skill": 1984,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB3EA5",
+      "Skill": 1510,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8544A6",
+      "Skill": 1452,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x529952",
+      "Skill": 1708,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA9A765",
+      "Skill": 1411,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xACD00B",
+      "Skill": 1700,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB72799",
+      "Skill": 1591,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9D5167",
+      "Skill": 1806,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A3502",
+      "Skill": 1581,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7612D4",
+      "Skill": 1244,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x79224D",
+      "Skill": 1247,
+      "SquadId": 17
+    },
+    {
+      "ID": "0x5ED428",
+      "Skill": 1684,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC2C50D",
+      "Skill": 1436,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9572F2",
+      "Skill": 1114,
+      "SquadId": 18
+    },
+    {
+      "ID": "0x2ACF46",
+      "Skill": 1782,
+      "SquadId": 18
+    },
+    {
+      "ID": "0x27B075",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3AAA2C",
+      "Skill": 2191,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAAA0A4",
+      "Skill": 1327,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x406828",
+      "Skill": 608,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE3805A",
+      "Skill": 1220,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x315259",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFDDC5D",
+      "Skill": 1445,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD00170",
+      "Skill": 1495,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x213BE3",
+      "Skill": 1148,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE270FB",
+      "Skill": 1519,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x888AE4",
+      "Skill": 1150,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A26E6",
+      "Skill": 1557,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA0A55",
+      "Skill": 1678,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5E236E",
+      "Skill": 1421,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAACE35",
+      "Skill": 1970,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9CEF07",
+      "Skill": 1403,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3B4D8A",
+      "Skill": 1755,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2B809F",
+      "Skill": 701,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA0CE3D",
+      "Skill": 1316,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1CBA36",
+      "Skill": 1435,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3727F7",
+      "Skill": 1236,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB88A3C",
+      "Skill": 1161,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD8D6AF",
+      "Skill": 1276,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6903B2",
+      "Skill": 2260,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x783724",
+      "Skill": 2082,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6777AA",
+      "Skill": 919,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2E678C",
+      "Skill": 1895,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE982C5",
+      "Skill": 930,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4A28F8",
+      "Skill": 1729,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13D2AF",
+      "Skill": 1164,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEBA20F",
+      "Skill": 1574,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x18819D",
+      "Skill": 1738,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66F606",
+      "Skill": 1617,
+      "SquadId": 18
+    },
+    {
+      "ID": "0x1B2A4C",
+      "Skill": 1210,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB5C1D4",
+      "Skill": 1542,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFC196E",
+      "Skill": 828,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB406F9",
+      "Skill": 1683,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF09F6",
+      "Skill": 1078,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE5549A",
+      "Skill": 1308,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x686BE7",
+      "Skill": 1413,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x578BC9",
+      "Skill": 2434,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA8B209",
+      "Skill": 1485,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB7A61F",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2195DB",
+      "Skill": 2387,
+      "SquadId": 18
+    },
+    {
+      "ID": "0x1A6835",
+      "Skill": 1171,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1267DB",
+      "Skill": 1633,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF176C5",
+      "Skill": 1783,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x207FBD",
+      "Skill": 1797,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA9F46",
+      "Skill": 2098,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8ACE79",
+      "Skill": 1236,
+      "SquadId": 19
+    },
+    {
+      "ID": "0x688C7E",
+      "Skill": 1389,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE54981",
+      "Skill": 2078,
+      "SquadId": 19
+    },
+    {
+      "ID": "0xD79062",
+      "Skill": 1672,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x631C8E",
+      "Skill": 1413,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F6D31",
+      "Skill": 1382,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x586127",
+      "Skill": 1081,
+      "SquadId": 19
+    },
+    {
+      "ID": "0x469042",
+      "Skill": 2037,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9F8ED",
+      "Skill": 2043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x89DBA9",
+      "Skill": 1031,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x814E75",
+      "Skill": 1941,
+      "SquadId": 20
+    },
+    {
+      "ID": "0x247388",
+      "Skill": 1773,
+      "SquadId": 20
+    },
+    {
+      "ID": "0x5B1B4C",
+      "Skill": 1842,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9ACE01",
+      "Skill": 809,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x831BC6",
+      "Skill": 1299,
+      "SquadId": 20
+    },
+    {
+      "ID": "0x550B64",
+      "Skill": 1742,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x47028E",
+      "Skill": 947,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9BBEFF",
+      "Skill": 1632,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD8D17B",
+      "Skill": 2654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD27A6F",
+      "Skill": 1395,
+      "SquadId": 20
+    },
+    {
+      "ID": "0xBB77DF",
+      "Skill": 1676,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15FA94",
+      "Skill": 1294,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD0389F",
+      "Skill": 1922,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x574CCC",
+      "Skill": 896,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFCDB50",
+      "Skill": 1541,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x57C9D7",
+      "Skill": 1800,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEDDA5A",
+      "Skill": 1473,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9E5F1C",
+      "Skill": 2055,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8AECE9",
+      "Skill": 2032,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x64FC06",
+      "Skill": 1342,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C889B",
+      "Skill": 1112,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBF9313",
+      "Skill": 937,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7A7759",
+      "Skill": 2230,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD13E7E",
+      "Skill": 1491,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F13D3",
+      "Skill": 2017,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x784BDD",
+      "Skill": 989,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x102194",
+      "Skill": 1885,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5DA271",
+      "Skill": 1515,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x802023",
+      "Skill": 1742,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2054D3",
+      "Skill": 1579,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD4BB7",
+      "Skill": 1532,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x954D99",
+      "Skill": 1663,
+      "SquadId": 20
+    },
+    {
+      "ID": "0xF9986A",
+      "Skill": 1174,
+      "SquadId": 20
+    },
+    {
+      "ID": "0xD78E58",
+      "Skill": 1827,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BAB76",
+      "Skill": 1575,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEA5532",
+      "Skill": 1828,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x253911",
+      "Skill": 2001,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5E2FCD",
+      "Skill": 1093,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F2F67",
+      "Skill": 2300,
+      "SquadId": 21
+    },
+    {
+      "ID": "0x2BBCF1",
+      "Skill": 1615,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA4E32",
+      "Skill": 1305,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x26C55F",
+      "Skill": 1674,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x383702",
+      "Skill": 1602,
+      "SquadId": 21
+    },
+    {
+      "ID": "0x50EB74",
+      "Skill": 1301,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC5319F",
+      "Skill": 1860,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x64FC32",
+      "Skill": 1471,
+      "SquadId": 22
+    },
+    {
+      "ID": "0xEB495D",
+      "Skill": 1195,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCD0AF0",
+      "Skill": 2455,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA1301F",
+      "Skill": 1699,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x775DFC",
+      "Skill": 1388,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x61F8AE",
+      "Skill": 1308,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB368FE",
+      "Skill": 1598,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDB4E33",
+      "Skill": 1793,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84D313",
+      "Skill": 1147,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x89C6C2",
+      "Skill": 1198,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFE9C57",
+      "Skill": 1994,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x794546",
+      "Skill": 1899,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10BA49",
+      "Skill": 2118,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7EA7E3",
+      "Skill": 1577,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC57AFB",
+      "Skill": 848,
+      "SquadId": 22
+    },
+    {
+      "ID": "0x69F9CE",
+      "Skill": 1938,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7F6A4C",
+      "Skill": 2246,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x357118",
+      "Skill": 1251,
+      "SquadId": 22
+    },
+    {
+      "ID": "0xE7838F",
+      "Skill": 821,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD34160",
+      "Skill": 1625,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44AC00",
+      "Skill": 1770,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x696434",
+      "Skill": 853,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC579EA",
+      "Skill": 725,
+      "SquadId": 23
+    },
+    {
+      "ID": "0x73517C",
+      "Skill": 831,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1AC20B",
+      "Skill": 783,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BAFFF",
+      "Skill": 1629,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB4BE4",
+      "Skill": 1752,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EDAD1",
+      "Skill": 2162,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x597BB5",
+      "Skill": 2018,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD2768",
+      "Skill": 2159,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBB958B",
+      "Skill": 1969,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1ED373",
+      "Skill": 919,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FDD01",
+      "Skill": 1883,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBF8A1D",
+      "Skill": 1702,
+      "SquadId": 23
+    },
+    {
+      "ID": "0xD1B335",
+      "Skill": 1534,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BA8F1",
+      "Skill": 1812,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x916584",
+      "Skill": 1703,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1C3B8C",
+      "Skill": 1517,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF8B229",
+      "Skill": 1385,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC5AC1",
+      "Skill": 1254,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x39125A",
+      "Skill": 998,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x94C3BF",
+      "Skill": 1260,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC70307",
+      "Skill": 1867,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5AF36E",
+      "Skill": 1572,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4F9DCF",
+      "Skill": 1435,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6C5818",
+      "Skill": 1965,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x96480A",
+      "Skill": 1956,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBDADA6",
+      "Skill": 1862,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x772579",
+      "Skill": 1260,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x53AEBC",
+      "Skill": 1849,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x959055",
+      "Skill": 1574,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x51CE7A",
+      "Skill": 1520,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4103F0",
+      "Skill": 1138,
+      "SquadId": 23
+    },
+    {
+      "ID": "0x5FDDEE",
+      "Skill": 1436,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2CE869",
+      "Skill": 1649,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x81C544",
+      "Skill": 819,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76E70F",
+      "Skill": 739,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2A3CF5",
+      "Skill": 1561,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3CF957",
+      "Skill": 1643,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5D2056",
+      "Skill": 1432,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE2F0BD",
+      "Skill": 1411,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x672950",
+      "Skill": 1770,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x616EC9",
+      "Skill": 2297,
+      "SquadId": 24
+    },
+    {
+      "ID": "0x7A7386",
+      "Skill": 1415,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x620C35",
+      "Skill": 1413,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F02D8",
+      "Skill": 1502,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE9B38B",
+      "Skill": 1370,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x82A4DA",
+      "Skill": 2203,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF66979",
+      "Skill": 1649,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2906FF",
+      "Skill": 1732,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x786965",
+      "Skill": 1391,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B05D4",
+      "Skill": 1553,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8793C7",
+      "Skill": 1654,
+      "SquadId": 24
+    },
+    {
+      "ID": "0x3D5C80",
+      "Skill": 1228,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1A86CF",
+      "Skill": 1651,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9D1D47",
+      "Skill": 1972,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x41ED53",
+      "Skill": 1754,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDF4785",
+      "Skill": 1733,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3FB178",
+      "Skill": 1246,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE2076F",
+      "Skill": 1436,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E1EE0",
+      "Skill": 1143,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1AA89",
+      "Skill": 1724,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x640C3F",
+      "Skill": 1288,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x87E929",
+      "Skill": 1989,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE72333",
+      "Skill": 1485,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x581EE6",
+      "Skill": 1345,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C3638",
+      "Skill": 2011,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1184AD",
+      "Skill": 1733,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3DBDBF",
+      "Skill": 1252,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1F8C60",
+      "Skill": 937,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB66B0",
+      "Skill": 1775,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x381F4B",
+      "Skill": 1213,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FA1FF",
+      "Skill": 1996,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49CC53",
+      "Skill": 2069,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x656B05",
+      "Skill": 899,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x618D53",
+      "Skill": 1051,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7ABC94",
+      "Skill": 1674,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAFB63C",
+      "Skill": 1503,
+      "SquadId": 24
+    },
+    {
+      "ID": "0xF146B4",
+      "Skill": 1529,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1CD620",
+      "Skill": 887,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x43AD16",
+      "Skill": 1305,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE1E34C",
+      "Skill": 2033,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4FB096",
+      "Skill": 1313,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B334A",
+      "Skill": 1938,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA47BAE",
+      "Skill": 1821,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1C152B",
+      "Skill": 1254,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE075A9",
+      "Skill": 1192,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAAD4B5",
+      "Skill": 1758,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x405F21",
+      "Skill": 2214,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA118DC",
+      "Skill": 1224,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4AFBC6",
+      "Skill": 1622,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E49FF",
+      "Skill": 1631,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA8F82A",
+      "Skill": 1067,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4FB23",
+      "Skill": 1713,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x83BAEF",
+      "Skill": 1486,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA83174",
+      "Skill": 1199,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0BC4A",
+      "Skill": 2030,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF9466B",
+      "Skill": 1679,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1DE85F",
+      "Skill": 1399,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBF6D11",
+      "Skill": 1448,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2C9CA5",
+      "Skill": 1506,
+      "SquadId": 24
+    },
+    {
+      "ID": "0x207972",
+      "Skill": 1240,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8F19BC",
+      "Skill": 1911,
+      "SquadId": 24
+    },
+    {
+      "ID": "0xBB848F",
+      "Skill": 1476,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x900C66",
+      "Skill": 1294,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x81F0FC",
+      "Skill": 2333,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB097A4",
+      "Skill": 1209,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x516C73",
+      "Skill": 1753,
+      "SquadId": 25
+    },
+    {
+      "ID": "0xDD5AEC",
+      "Skill": 1530,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2CA23",
+      "Skill": 1384,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9760E0",
+      "Skill": 970,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9AE28",
+      "Skill": 1000,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x225A86",
+      "Skill": 2153,
+      "SquadId": 25
+    },
+    {
+      "ID": "0xB80230",
+      "Skill": 1375,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C4C37",
+      "Skill": 553,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF9060A",
+      "Skill": 1245,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x38DC98",
+      "Skill": 937,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC510D2",
+      "Skill": 1675,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x226C82",
+      "Skill": 1665,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E0F69",
+      "Skill": 2340,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5FEF93",
+      "Skill": 1922,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D99C4",
+      "Skill": 1021,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA60F19",
+      "Skill": 1010,
+      "SquadId": 26
+    },
+    {
+      "ID": "0x3C6695",
+      "Skill": 1233,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x588E12",
+      "Skill": 1027,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB60E99",
+      "Skill": 1677,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC2BF6A",
+      "Skill": 1829,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D76E3",
+      "Skill": 1316,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2996CE",
+      "Skill": 1231,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x83507D",
+      "Skill": 1266,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF24B00",
+      "Skill": 1888,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF1E632",
+      "Skill": 2068,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x654C98",
+      "Skill": 1789,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB945C2",
+      "Skill": 1112,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x566AF6",
+      "Skill": 1428,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE14933",
+      "Skill": 2027,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6ACC0D",
+      "Skill": 1470,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB3F4D",
+      "Skill": 1442,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E92FB",
+      "Skill": 653,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE67677",
+      "Skill": 1447,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1BA911",
+      "Skill": 1899,
+      "SquadId": 26
+    },
+    {
+      "ID": "0x841BD0",
+      "Skill": 1536,
+      "SquadId": 26
+    },
+    {
+      "ID": "0x79108C",
+      "Skill": 1826,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB21F1",
+      "Skill": 1689,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6B1AAD",
+      "Skill": 2247,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2009DB",
+      "Skill": 1237,
+      "SquadId": 26
+    },
+    {
+      "ID": "0x3B942B",
+      "Skill": 1092,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEA39BA",
+      "Skill": 1420,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD8F83",
+      "Skill": 830,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCAA6C1",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAFDE4F",
+      "Skill": 1990,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5E69AF",
+      "Skill": 1163,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x891F71",
+      "Skill": 2026,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2E461",
+      "Skill": 1815,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x939090",
+      "Skill": 1470,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2E0BAD",
+      "Skill": 2017,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E5246",
+      "Skill": 1037,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x32552D",
+      "Skill": 1399,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x459E0C",
+      "Skill": 969,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDD2FB6",
+      "Skill": 1702,
+      "SquadId": 26
+    },
+    {
+      "ID": "0xF0BEDE",
+      "Skill": 2034,
+      "SquadId": 26
+    },
+    {
+      "ID": "0x7FC886",
+      "Skill": 1016,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCC65AC",
+      "Skill": 2115,
+      "SquadId": 27
+    },
+    {
+      "ID": "0x339EAA",
+      "Skill": 401,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB76348",
+      "Skill": 1998,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C1913",
+      "Skill": 1777,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAEAADA",
+      "Skill": 1612,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDF7DC9",
+      "Skill": 1979,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49D535",
+      "Skill": 1839,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1BD8C9",
+      "Skill": 1114,
+      "SquadId": 27
+    },
+    {
+      "ID": "0xA18B40",
+      "Skill": 1919,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF17E5",
+      "Skill": 1265,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x87CE18",
+      "Skill": 1677,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x11AD5D",
+      "Skill": 1347,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE8912C",
+      "Skill": 997,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x115277",
+      "Skill": 1740,
+      "SquadId": 27
+    },
+    {
+      "ID": "0x3D9989",
+      "Skill": 2538,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC2D39",
+      "Skill": 1105,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2EA1CE",
+      "Skill": 654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD523AD",
+      "Skill": 1355,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4254A9",
+      "Skill": 2041,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBCC0DD",
+      "Skill": 1516,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3C06AF",
+      "Skill": 1277,
+      "SquadId": 28
+    },
+    {
+      "ID": "0xD35D85",
+      "Skill": 1491,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D0EC4",
+      "Skill": 1449,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCBE6B1",
+      "Skill": 1637,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x94DD28",
+      "Skill": 1241,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x55F14B",
+      "Skill": 1822,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12728B",
+      "Skill": 1753,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2ADEBB",
+      "Skill": 1130,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA05E38",
+      "Skill": 1876,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB32CC6",
+      "Skill": 2418,
+      "SquadId": 28
+    },
+    {
+      "ID": "0xA31114",
+      "Skill": 722,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x733503",
+      "Skill": 1446,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2886F5",
+      "Skill": 1061,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC7DB1",
+      "Skill": 1896,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x60C866",
+      "Skill": 1338,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD047EA",
+      "Skill": 839,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4E46EF",
+      "Skill": 1504,
+      "SquadId": 29
+    },
+    {
+      "ID": "0x6A9600",
+      "Skill": 1927,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB274B8",
+      "Skill": 1687,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x45EC9E",
+      "Skill": 1590,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3810A2",
+      "Skill": 1240,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCCB2E6",
+      "Skill": 1075,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7BC56B",
+      "Skill": 1627,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB42413",
+      "Skill": 1922,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1B85B7",
+      "Skill": 580,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6662B2",
+      "Skill": 1275,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x323583",
+      "Skill": 1427,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA37C34",
+      "Skill": 2052,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x95DF46",
+      "Skill": 1641,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x302B98",
+      "Skill": 1581,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CB6C0",
+      "Skill": 2012,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x172709",
+      "Skill": 1703,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB81EF4",
+      "Skill": 1670,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x185522",
+      "Skill": 1755,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA20E3A",
+      "Skill": 1695,
+      "SquadId": 29
+    },
+    {
+      "ID": "0x841C01",
+      "Skill": 1686,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFE8356",
+      "Skill": 1599,
+      "SquadId": 29
+    },
+    {
+      "ID": "0xCB5BE5",
+      "Skill": 1290,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x59DDC4",
+      "Skill": 1689,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xECE1ED",
+      "Skill": 1586,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDB83FE",
+      "Skill": 1553,
+      "SquadId": 29
+    },
+    {
+      "ID": "0x4220FE",
+      "Skill": 1968,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1C25FC",
+      "Skill": 1456,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF9AC04",
+      "Skill": 1766,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4640FF",
+      "Skill": 829,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1F8075",
+      "Skill": 302,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBAAF26",
+      "Skill": 918,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE1BF2F",
+      "Skill": 773,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE34B0",
+      "Skill": 1841,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEE1460",
+      "Skill": 1339,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2DC5DD",
+      "Skill": 1415,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C3AB7",
+      "Skill": 1316,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x83F829",
+      "Skill": 1554,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6825FF",
+      "Skill": 1590,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9AD0A5",
+      "Skill": 1239,
+      "SquadId": 29
+    },
+    {
+      "ID": "0xC5FDAE",
+      "Skill": 1811,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6049BA",
+      "Skill": 1543,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1C217C",
+      "Skill": 1831,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7578AF",
+      "Skill": 1900,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x252F04",
+      "Skill": 687,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x85D763",
+      "Skill": 2243,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x430DE4",
+      "Skill": 1196,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBF90A3",
+      "Skill": 2228,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x915F81",
+      "Skill": 2270,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x21025B",
+      "Skill": 1806,
+      "SquadId": 29
+    },
+    {
+      "ID": "0x36F132",
+      "Skill": 1485,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C7B55",
+      "Skill": 1830,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15F8CD",
+      "Skill": 1540,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD7748D",
+      "Skill": 1056,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9D1ACF",
+      "Skill": 2321,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x21BAC0",
+      "Skill": 939,
+      "SquadId": 30
+    },
+    {
+      "ID": "0x129735",
+      "Skill": 1206,
+      "SquadId": 30
+    },
+    {
+      "ID": "0xF58EE2",
+      "Skill": 1302,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10D844",
+      "Skill": 2073,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF04FEC",
+      "Skill": 1015,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBFD64B",
+      "Skill": 1298,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFDC735",
+      "Skill": 2055,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37B574",
+      "Skill": 1607,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D2533",
+      "Skill": 1222,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x973B38",
+      "Skill": 1521,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE93A7C",
+      "Skill": 1153,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFBF2CF",
+      "Skill": 1560,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4FD456",
+      "Skill": 1040,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x68665A",
+      "Skill": 1825,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA8422",
+      "Skill": 1636,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9BCA99",
+      "Skill": 1381,
+      "SquadId": 30
+    },
+    {
+      "ID": "0xE77390",
+      "Skill": 1902,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FBAD1",
+      "Skill": 1628,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD5514C",
+      "Skill": 2052,
+      "SquadId": 30
+    },
+    {
+      "ID": "0x6C13CE",
+      "Skill": 1343,
+      "SquadId": 30
+    },
+    {
+      "ID": "0xBB738F",
+      "Skill": 1372,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x852F3B",
+      "Skill": 1499,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB6D804",
+      "Skill": 1491,
+      "SquadId": 30
+    },
+    {
+      "ID": "0xD5F192",
+      "Skill": 1280,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x345171",
+      "Skill": 1553,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x29C5CB",
+      "Skill": 901,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x29648D",
+      "Skill": 1604,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC03785",
+      "Skill": 641,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x211500",
+      "Skill": 1836,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1D75ED",
+      "Skill": 1690,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x64A4DB",
+      "Skill": 1469,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD01401",
+      "Skill": 1724,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD73B0B",
+      "Skill": 1460,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6C01C7",
+      "Skill": 1734,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x43C27C",
+      "Skill": 1715,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBA72F3",
+      "Skill": 1581,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84153F",
+      "Skill": 1595,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x82005E",
+      "Skill": 2044,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC26247",
+      "Skill": 1807,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x97EBA0",
+      "Skill": 1796,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBCFD3F",
+      "Skill": 1833,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB987BF",
+      "Skill": 1998,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2E9429",
+      "Skill": 1574,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8D46BC",
+      "Skill": 1662,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEFB995",
+      "Skill": 909,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x383CCF",
+      "Skill": 1157,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E1A0F",
+      "Skill": 1016,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D8620",
+      "Skill": 821,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA9CA88",
+      "Skill": 1411,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8589E2",
+      "Skill": 1687,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEEDF68",
+      "Skill": 1875,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9755B",
+      "Skill": 1035,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x30F09F",
+      "Skill": 1790,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x751864",
+      "Skill": 1778,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x43DEFE",
+      "Skill": 1777,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF91D3D",
+      "Skill": 1023,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCA9774",
+      "Skill": 1653,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC7318F",
+      "Skill": 1648,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D0131",
+      "Skill": 1643,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE712DB",
+      "Skill": 1945,
+      "SquadId": 31
+    },
+    {
+      "ID": "0x49F65D",
+      "Skill": 1182,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6310CD",
+      "Skill": 2119,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x241D3C",
+      "Skill": 1038,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E9BD1",
+      "Skill": 1837,
+      "SquadId": 31
+    },
+    {
+      "ID": "0x4A5374",
+      "Skill": 1351,
+      "SquadId": 32
+    },
+    {
+      "ID": "0xA73A10",
+      "Skill": 1797,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x39139D",
+      "Skill": 1900,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x626E59",
+      "Skill": 1491,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x72AF02",
+      "Skill": 1749,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE12DDD",
+      "Skill": 1601,
+      "SquadId": 32
+    },
+    {
+      "ID": "0x9D4D3D",
+      "Skill": 1282,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x392D5A",
+      "Skill": 957,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x71F24B",
+      "Skill": 1242,
+      "SquadId": 32
+    },
+    {
+      "ID": "0x5D4176",
+      "Skill": 1762,
+      "SquadId": 32
+    },
+    {
+      "ID": "0x15557B",
+      "Skill": 1218,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F513E",
+      "Skill": 1135,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC55E01",
+      "Skill": 2508,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9427E8",
+      "Skill": 1186,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A726F",
+      "Skill": 1378,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x148737",
+      "Skill": 782,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x839154",
+      "Skill": 1385,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x65CF45",
+      "Skill": 1581,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3793D4",
+      "Skill": 1649,
+      "SquadId": 33
+    },
+    {
+      "ID": "0x134407",
+      "Skill": 1140,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF9D759",
+      "Skill": 1674,
+      "SquadId": 33
+    },
+    {
+      "ID": "0xAB6958",
+      "Skill": 977,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB21E3A",
+      "Skill": 1238,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9C0BF3",
+      "Skill": 1502,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x426764",
+      "Skill": 1516,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4887A9",
+      "Skill": 1824,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD14CD1",
+      "Skill": 1087,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x990364",
+      "Skill": 1258,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x836D06",
+      "Skill": 1385,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x935142",
+      "Skill": 569,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74595F",
+      "Skill": 1309,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x19C8EE",
+      "Skill": 1562,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2B5916",
+      "Skill": 1698,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCF105D",
+      "Skill": 880,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9F1B14",
+      "Skill": 2024,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD6DC97",
+      "Skill": 1780,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B01E3",
+      "Skill": 1946,
+      "SquadId": 33
+    },
+    {
+      "ID": "0xF276DD",
+      "Skill": 1400,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFEF7B4",
+      "Skill": 1162,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x16FDC3",
+      "Skill": 1430,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x594F48",
+      "Skill": 1720,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x81CA24",
+      "Skill": 853,
+      "SquadId": 34
+    },
+    {
+      "ID": "0x2266E2",
+      "Skill": 1321,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6DE67E",
+      "Skill": 1300,
+      "SquadId": 34
+    },
+    {
+      "ID": "0xDEBBA6",
+      "Skill": 2082,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76F679",
+      "Skill": 1389,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBEBF35",
+      "Skill": 2041,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEFD220",
+      "Skill": 1314,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x663FE1",
+      "Skill": 2070,
+      "SquadId": 35
+    },
+    {
+      "ID": "0xB630EF",
+      "Skill": 652,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x440A59",
+      "Skill": 1887,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6A56B8",
+      "Skill": 1337,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x552E58",
+      "Skill": 2102,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2C31F",
+      "Skill": 2029,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x988501",
+      "Skill": 1953,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1B554F",
+      "Skill": 1829,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x48932E",
+      "Skill": 1181,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCDF7CA",
+      "Skill": 1043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEA50C9",
+      "Skill": 1155,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x680530",
+      "Skill": 1466,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA605B8",
+      "Skill": 1012,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB30E87",
+      "Skill": 1849,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2CF112",
+      "Skill": 1618,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10A376",
+      "Skill": 1671,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x35F235",
+      "Skill": 1091,
+      "SquadId": 35
+    },
+    {
+      "ID": "0x419DC7",
+      "Skill": 2153,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7006DB",
+      "Skill": 1348,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8CBA22",
+      "Skill": 1295,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB6522",
+      "Skill": 1235,
+      "SquadId": 35
+    },
+    {
+      "ID": "0x204EDF",
+      "Skill": 1630,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x170246",
+      "Skill": 1018,
+      "SquadId": 35
+    },
+    {
+      "ID": "0xF19190",
+      "Skill": 2032,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE6A5F4",
+      "Skill": 1483,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2F696",
+      "Skill": 1646,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x553B55",
+      "Skill": 1587,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDE8024",
+      "Skill": 1531,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC03BD5",
+      "Skill": 1668,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8997C4",
+      "Skill": 1958,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1CCD7",
+      "Skill": 1587,
+      "SquadId": 35
+    },
+    {
+      "ID": "0xAD4FAB",
+      "Skill": 1915,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBFFFCA",
+      "Skill": 809,
+      "SquadId": 35
+    },
+    {
+      "ID": "0x33E1DE",
+      "Skill": 1814,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB3D4C8",
+      "Skill": 1584,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEB72C5",
+      "Skill": 1944,
+      "SquadId": 36
+    },
+    {
+      "ID": "0x5F9A30",
+      "Skill": 1125,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x36F6AD",
+      "Skill": 1753,
+      "SquadId": 36
+    },
+    {
+      "ID": "0x543B68",
+      "Skill": 1870,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4964CB",
+      "Skill": 1085,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA128BC",
+      "Skill": 2342,
+      "SquadId": 36
+    },
+    {
+      "ID": "0x45F284",
+      "Skill": 1860,
+      "SquadId": 37
+    },
+    {
+      "ID": "0x89104C",
+      "Skill": 1343,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x60B3AC",
+      "Skill": 1697,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E9DA8",
+      "Skill": 1421,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA8639E",
+      "Skill": 1378,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x265798",
+      "Skill": 1871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC97167",
+      "Skill": 1627,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC98FFB",
+      "Skill": 1744,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x60D295",
+      "Skill": 1325,
+      "SquadId": 37
+    },
+    {
+      "ID": "0x4C1E71",
+      "Skill": 1035,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x93A193",
+      "Skill": 630,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x94C8A1",
+      "Skill": 1214,
+      "SquadId": 37
+    },
+    {
+      "ID": "0x59CF58",
+      "Skill": 1580,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x480624",
+      "Skill": 2020,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCD4801",
+      "Skill": 1711,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x53E244",
+      "Skill": 854,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x762C0B",
+      "Skill": 1848,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F5A6A",
+      "Skill": 2125,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6EBE7A",
+      "Skill": 1239,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x528FF8",
+      "Skill": 1201,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x33A1F9",
+      "Skill": 1452,
+      "SquadId": 37
+    },
+    {
+      "ID": "0xD6893F",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37327C",
+      "Skill": 1624,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC1EA65",
+      "Skill": 1922,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37F6A6",
+      "Skill": 1579,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE485BE",
+      "Skill": 1131,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCFF025",
+      "Skill": 1281,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE91C76",
+      "Skill": 1377,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBEFF33",
+      "Skill": 1294,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x22BE6A",
+      "Skill": 1661,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3DAFE6",
+      "Skill": 1255,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A4B7B",
+      "Skill": 1889,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE22094",
+      "Skill": 1890,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEB0C26",
+      "Skill": 1469,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF8263D",
+      "Skill": 1623,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6CDC90",
+      "Skill": 1571,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A26C9",
+      "Skill": 1528,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4D0731",
+      "Skill": 1244,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x81F9EA",
+      "Skill": 1601,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6721E0",
+      "Skill": 1393,
+      "SquadId": 37
+    },
+    {
+      "ID": "0xFCBF87",
+      "Skill": 1822,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC69306",
+      "Skill": 1538,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x29D720",
+      "Skill": 1457,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2E6DDE",
+      "Skill": 1169,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5328E7",
+      "Skill": 1871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x70E761",
+      "Skill": 1833,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA30F8E",
+      "Skill": 2002,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAA65EF",
+      "Skill": 1399,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC2D9B4",
+      "Skill": 1804,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA3B2B1",
+      "Skill": 1000,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x454A04",
+      "Skill": 813,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7DB788",
+      "Skill": 1016,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x34FB01",
+      "Skill": 893,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x543011",
+      "Skill": 1558,
+      "SquadId": 38
+    },
+    {
+      "ID": "0x976C22",
+      "Skill": 538,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE86CF2",
+      "Skill": 1220,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE64F49",
+      "Skill": 1702,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA4D147",
+      "Skill": 2059,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1BBAB3",
+      "Skill": 1407,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x887CBF",
+      "Skill": 1424,
+      "SquadId": 38
+    },
+    {
+      "ID": "0x3BE5C0",
+      "Skill": 1379,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD83957",
+      "Skill": 1206,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC358FC",
+      "Skill": 1124,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1068FB",
+      "Skill": 1428,
+      "SquadId": 38
+    },
+    {
+      "ID": "0xF603A3",
+      "Skill": 980,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10EC62",
+      "Skill": 1702,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E3F52",
+      "Skill": 775,
+      "SquadId": 38
+    },
+    {
+      "ID": "0x53748F",
+      "Skill": 1846,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9D3EE3",
+      "Skill": 1405,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x397264",
+      "Skill": 1778,
+      "SquadId": 38
+    },
+    {
+      "ID": "0x653018",
+      "Skill": 664,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC367D",
+      "Skill": 1668,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x648C74",
+      "Skill": 2139,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12A050",
+      "Skill": 1715,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE13EEF",
+      "Skill": 905,
+      "SquadId": 39
+    },
+    {
+      "ID": "0xB8184A",
+      "Skill": 2255,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x882C73",
+      "Skill": 811,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB73CA6",
+      "Skill": 1941,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6E5F18",
+      "Skill": 905,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8A17FB",
+      "Skill": 1227,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD79561",
+      "Skill": 1854,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAAA391",
+      "Skill": 1577,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x47C2AD",
+      "Skill": 1367,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x94F1B7",
+      "Skill": 1229,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FD537",
+      "Skill": 1228,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA97FF5",
+      "Skill": 953,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2D6E51",
+      "Skill": 1197,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8F563B",
+      "Skill": 1373,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x38FDB6",
+      "Skill": 2091,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x812B77",
+      "Skill": 1426,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB4A272",
+      "Skill": 2198,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF5F78",
+      "Skill": 1423,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD41834",
+      "Skill": 1389,
+      "SquadId": 39
+    },
+    {
+      "ID": "0xCF456E",
+      "Skill": 1690,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x48E580",
+      "Skill": 1023,
+      "SquadId": 39
+    },
+    {
+      "ID": "0x1CCAE2",
+      "Skill": 1099,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD960A",
+      "Skill": 1608,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x890CF9",
+      "Skill": 1432,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x56AE7E",
+      "Skill": 2133,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x310CE0",
+      "Skill": 2098,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x72FCE5",
+      "Skill": 1189,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x722636",
+      "Skill": 1628,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCA4D5E",
+      "Skill": 490,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5B0CCF",
+      "Skill": 1284,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC73BC1",
+      "Skill": 2497,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8B803B",
+      "Skill": 1022,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x24294C",
+      "Skill": 2313,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x812984",
+      "Skill": 1802,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDDAE1C",
+      "Skill": 2071,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE9F622",
+      "Skill": 1055,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x65595D",
+      "Skill": 1307,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFDBC99",
+      "Skill": 1935,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF0A2DA",
+      "Skill": 2506,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF79C0",
+      "Skill": 1739,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9AC640",
+      "Skill": 1596,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7011CF",
+      "Skill": 1492,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x471652",
+      "Skill": 2055,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB03E88",
+      "Skill": 1414,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9090B",
+      "Skill": 1863,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x357144",
+      "Skill": 1672,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD912E",
+      "Skill": 1213,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FD41D",
+      "Skill": 1537,
+      "SquadId": 40
+    },
+    {
+      "ID": "0xD4495C",
+      "Skill": 1622,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7E5AB5",
+      "Skill": 1034,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x474C9A",
+      "Skill": 687,
+      "SquadId": 40
+    },
+    {
+      "ID": "0x95F148",
+      "Skill": 950,
+      "SquadId": 40
+    },
+    {
+      "ID": "0xFFB98C",
+      "Skill": 2013,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDEAC17",
+      "Skill": 1258,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAFFDC1",
+      "Skill": 1484,
+      "SquadId": 41
+    },
+    {
+      "ID": "0x891765",
+      "Skill": 1716,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xACED20",
+      "Skill": 1608,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE0E7F5",
+      "Skill": 1273,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC73EE2",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x789C71",
+      "Skill": 1769,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1747BF",
+      "Skill": 1219,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA1CBEA",
+      "Skill": 1158,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x794FA2",
+      "Skill": 1389,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x72C858",
+      "Skill": 1630,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9837C1",
+      "Skill": 1548,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x791AC3",
+      "Skill": 767,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x973673",
+      "Skill": 2257,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x365FC5",
+      "Skill": 2198,
+      "SquadId": 41
+    },
+    {
+      "ID": "0xDFA003",
+      "Skill": 2003,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAF9D5E",
+      "Skill": 1298,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2C67AE",
+      "Skill": 2212,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2C1B4A",
+      "Skill": 1479,
+      "SquadId": 41
+    },
+    {
+      "ID": "0xDF0ADA",
+      "Skill": 1474,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE68919",
+      "Skill": 1581,
+      "SquadId": 41
+    },
+    {
+      "ID": "0x97C862",
+      "Skill": 1881,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2CC89D",
+      "Skill": 1241,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB9E94",
+      "Skill": 1011,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD65CAF",
+      "Skill": 1834,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x181901",
+      "Skill": 1705,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x618E47",
+      "Skill": 1684,
+      "SquadId": 42
+    },
+    {
+      "ID": "0xE0DC34",
+      "Skill": 1969,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD07DD",
+      "Skill": 1142,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x30F83D",
+      "Skill": 1612,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x24ADC7",
+      "Skill": 1033,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC378DB",
+      "Skill": 1019,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA92C38",
+      "Skill": 1935,
+      "SquadId": 42
+    },
+    {
+      "ID": "0x291264",
+      "Skill": 1821,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD17FF4",
+      "Skill": 1306,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFBD7CF",
+      "Skill": 1206,
+      "SquadId": 43
+    },
+    {
+      "ID": "0xC12CCD",
+      "Skill": 2256,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD540D",
+      "Skill": 2120,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB46CB8",
+      "Skill": 1232,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x87CCEA",
+      "Skill": 1795,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD921CB",
+      "Skill": 1834,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x316EC9",
+      "Skill": 1446,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBF8CB1",
+      "Skill": 1330,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4BD831",
+      "Skill": 1045,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4122E",
+      "Skill": 1849,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7CE9B7",
+      "Skill": 2443,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x46D9F7",
+      "Skill": 1324,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x306C8E",
+      "Skill": 1201,
+      "SquadId": 43
+    },
+    {
+      "ID": "0x1599E3",
+      "Skill": 1297,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x68591D",
+      "Skill": 1379,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD95ADA",
+      "Skill": 910,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x169206",
+      "Skill": 1551,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDCD391",
+      "Skill": 1449,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3CC102",
+      "Skill": 2036,
+      "SquadId": 43
+    },
+    {
+      "ID": "0xFB1211",
+      "Skill": 1674,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8F2EF5",
+      "Skill": 1152,
+      "SquadId": 43
+    },
+    {
+      "ID": "0xFBF173",
+      "Skill": 697,
+      "SquadId": 43
+    },
+    {
+      "ID": "0xEEDE7A",
+      "Skill": 1258,
+      "SquadId": 43
+    },
+    {
+      "ID": "0xF82B4F",
+      "Skill": 1566,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB78C9D",
+      "Skill": 1752,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x257085",
+      "Skill": 1739,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x873157",
+      "Skill": 1376,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x57614E",
+      "Skill": 1893,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x432E79",
+      "Skill": 1769,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2CEC80",
+      "Skill": 1154,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x453647",
+      "Skill": 1687,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1A70CF",
+      "Skill": 1520,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A15FB",
+      "Skill": 997,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB6154",
+      "Skill": 1805,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44EEB2",
+      "Skill": 2110,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x253EDB",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDE9693",
+      "Skill": 1561,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEC642A",
+      "Skill": 1500,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3B39B6",
+      "Skill": 1840,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC8B6DD",
+      "Skill": 1409,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF6B548",
+      "Skill": 1497,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x29CD32",
+      "Skill": 1746,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEC5872",
+      "Skill": 2240,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2B6A53",
+      "Skill": 1661,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4580A7",
+      "Skill": 663,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDEF13D",
+      "Skill": 1525,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7D6FBD",
+      "Skill": 1190,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD5EF7",
+      "Skill": 1575,
+      "SquadId": 44
+    },
+    {
+      "ID": "0x12820B",
+      "Skill": 1157,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5FA17B",
+      "Skill": 1898,
+      "SquadId": 44
+    },
+    {
+      "ID": "0x560EF8",
+      "Skill": 2029,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7627B2",
+      "Skill": 750,
+      "SquadId": 44
+    },
+    {
+      "ID": "0x8CAB15",
+      "Skill": 1258,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD578F0",
+      "Skill": 1019,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x11CAA3",
+      "Skill": 1166,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB5A8DF",
+      "Skill": 1713,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6DFEE4",
+      "Skill": 1774,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB39861",
+      "Skill": 1941,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76B616",
+      "Skill": 1357,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF2F6E7",
+      "Skill": 2033,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF10E2D",
+      "Skill": 1887,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA79C67",
+      "Skill": 1949,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE0A1D4",
+      "Skill": 939,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCF21F0",
+      "Skill": 961,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7FBA55",
+      "Skill": 1993,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFCE4B4",
+      "Skill": 1718,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x87B7B8",
+      "Skill": 910,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA83826",
+      "Skill": 1488,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x10359B",
+      "Skill": 2107,
+      "SquadId": 44
+    },
+    {
+      "ID": "0xC9C835",
+      "Skill": 1625,
+      "SquadId": 45
+    },
+    {
+      "ID": "0x65B352",
+      "Skill": 1062,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2ADAB",
+      "Skill": 1318,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EF749",
+      "Skill": 1071,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F6418",
+      "Skill": 1777,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2B5998",
+      "Skill": 1563,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1B2290",
+      "Skill": 1500,
+      "SquadId": 45
+    },
+    {
+      "ID": "0xD67E51",
+      "Skill": 1279,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15C45C",
+      "Skill": 1944,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE356D4",
+      "Skill": 1933,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD9F1E1",
+      "Skill": 1429,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3B748E",
+      "Skill": 990,
+      "SquadId": 45
+    },
+    {
+      "ID": "0xEDA593",
+      "Skill": 1311,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAFA93B",
+      "Skill": 1777,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4AAB03",
+      "Skill": 1107,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x934A82",
+      "Skill": 1623,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5145AD",
+      "Skill": 1869,
+      "SquadId": 45
+    },
+    {
+      "ID": "0x9AC717",
+      "Skill": 1104,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEFB2CE",
+      "Skill": 1902,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x961010",
+      "Skill": 1901,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7F0A59",
+      "Skill": 1885,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBEE0F5",
+      "Skill": 1404,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15A516",
+      "Skill": 1603,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7FC6F4",
+      "Skill": 1011,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F710B",
+      "Skill": 1335,
+      "SquadId": 45
+    },
+    {
+      "ID": "0x253772",
+      "Skill": 782,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9EB651",
+      "Skill": 1249,
+      "SquadId": 46
+    },
+    {
+      "ID": "0xF936B1",
+      "Skill": 1217,
+      "SquadId": 46
+    },
+    {
+      "ID": "0x3650F8",
+      "Skill": 1348,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDEB5A9",
+      "Skill": 979,
+      "SquadId": 47
+    },
+    {
+      "ID": "0xB38628",
+      "Skill": 1149,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD24713",
+      "Skill": 1328,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x916F2D",
+      "Skill": 1925,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x17CE53",
+      "Skill": 1424,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE980CF",
+      "Skill": 1456,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5749B5",
+      "Skill": 1981,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x70C7B7",
+      "Skill": 1489,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B4B89",
+      "Skill": 1854,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xABB6E6",
+      "Skill": 1809,
+      "SquadId": 47
+    },
+    {
+      "ID": "0x8A4A33",
+      "Skill": 1486,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC776E",
+      "Skill": 1307,
+      "SquadId": 47
+    },
+    {
+      "ID": "0x8075F3",
+      "Skill": 1432,
+      "SquadId": 47
+    },
+    {
+      "ID": "0x452F4A",
+      "Skill": 1474,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCE5AC2",
+      "Skill": 723,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x91CB39",
+      "Skill": 676,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x568A8E",
+      "Skill": 1576,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2D92F",
+      "Skill": 1930,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD28360",
+      "Skill": 1656,
+      "SquadId": 48
+    },
+    {
+      "ID": "0x2642D2",
+      "Skill": 1703,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x52EE77",
+      "Skill": 2296,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA829AB",
+      "Skill": 1037,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC37614",
+      "Skill": 1626,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CC6A1",
+      "Skill": 1454,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCF8BBC",
+      "Skill": 1563,
+      "SquadId": 48
+    },
+    {
+      "ID": "0x609C60",
+      "Skill": 2299,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBFD976",
+      "Skill": 1418,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5C6378",
+      "Skill": 1335,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1D0C0F",
+      "Skill": 1947,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x67299C",
+      "Skill": 1450,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x22A9B8",
+      "Skill": 1886,
+      "SquadId": 48
+    },
+    {
+      "ID": "0xA9B2FB",
+      "Skill": 1704,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC740E8",
+      "Skill": 1097,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x73C380",
+      "Skill": 1158,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A8AB5",
+      "Skill": 1309,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9AA1F",
+      "Skill": 1601,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FE98D",
+      "Skill": 1432,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBAEB2C",
+      "Skill": 1281,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3B0B2A",
+      "Skill": 1053,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDD4BFF",
+      "Skill": 1729,
+      "SquadId": 48
+    },
+    {
+      "ID": "0x5B365D",
+      "Skill": 1770,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x538532",
+      "Skill": 1406,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2AAA69",
+      "Skill": 638,
+      "SquadId": 49
+    },
+    {
+      "ID": "0x845F26",
+      "Skill": 1992,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA05C19",
+      "Skill": 1450,
+      "SquadId": 49
+    },
+    {
+      "ID": "0x431B65",
+      "Skill": 943,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAA0DB6",
+      "Skill": 1136,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB4727C",
+      "Skill": 2127,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EAEED",
+      "Skill": 1574,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA4816D",
+      "Skill": 1809,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF80B5C",
+      "Skill": 1446,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3394E2",
+      "Skill": 2381,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA38FD4",
+      "Skill": 2259,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA74A91",
+      "Skill": 1242,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x967F7B",
+      "Skill": 1356,
+      "SquadId": 49
+    },
+    {
+      "ID": "0x4A5A06",
+      "Skill": 1045,
+      "SquadId": 50
+    },
+    {
+      "ID": "0x47B469",
+      "Skill": 1623,
+      "SquadId": 50
+    },
+    {
+      "ID": "0x644F1D",
+      "Skill": 460,
+      "SquadId": 51
+    },
+    {
+      "ID": "0x7EEB2B",
+      "Skill": 1379,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC926C6",
+      "Skill": 1857,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x77FBD0",
+      "Skill": 1861,
+      "SquadId": 51
+    },
+    {
+      "ID": "0x3D6BEC",
+      "Skill": 1357,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3917EA",
+      "Skill": 1967,
+      "SquadId": 51
+    },
+    {
+      "ID": "0xE89DD8",
+      "Skill": 1183,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAFE49C",
+      "Skill": 1614,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEE55EE",
+      "Skill": 1585,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC22FE7",
+      "Skill": 2476,
+      "SquadId": 51
+    },
+    {
+      "ID": "0x38BE32",
+      "Skill": 1747,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3CE8D6",
+      "Skill": 1284,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE9AAD3",
+      "Skill": 1748,
+      "SquadId": 52
+    },
+    {
+      "ID": "0xDE1B12",
+      "Skill": 1872,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x34ED4C",
+      "Skill": 1455,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3674AE",
+      "Skill": 1207,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5E119A",
+      "Skill": 1359,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6AA041",
+      "Skill": 1701,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD391E5",
+      "Skill": 2328,
+      "SquadId": 52
+    },
+    {
+      "ID": "0xE00859",
+      "Skill": 1358,
+      "SquadId": 52
+    },
+    {
+      "ID": "0xEE87BA",
+      "Skill": 1933,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2A072D",
+      "Skill": 1557,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x416161",
+      "Skill": 1106,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x573BB4",
+      "Skill": 1420,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x62AD3B",
+      "Skill": 1260,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C0EBA",
+      "Skill": 1636,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6287EC",
+      "Skill": 1298,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x53F923",
+      "Skill": 1893,
+      "SquadId": 52
+    },
+    {
+      "ID": "0xC884DD",
+      "Skill": 2323,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76E285",
+      "Skill": 894,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7D7E7B",
+      "Skill": 1430,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x58836B",
+      "Skill": 1338,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B05D8",
+      "Skill": 1584,
+      "SquadId": 53
+    },
+    {
+      "ID": "0xF2224E",
+      "Skill": 1457,
+      "SquadId": 53
+    },
+    {
+      "ID": "0x7BEABA",
+      "Skill": 1567,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x50C9E5",
+      "Skill": 1599,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCBC75D",
+      "Skill": 1971,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x36BE0C",
+      "Skill": 933,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x558226",
+      "Skill": 1444,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCBD02F",
+      "Skill": 1640,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDBFDFD",
+      "Skill": 1337,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6A98B0",
+      "Skill": 1468,
+      "SquadId": 53
+    },
+    {
+      "ID": "0xEED18A",
+      "Skill": 1533,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x477BC6",
+      "Skill": 1967,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBB8E59",
+      "Skill": 1462,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA13CC",
+      "Skill": 1248,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6BFE93",
+      "Skill": 1325,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x96FDC7",
+      "Skill": 2072,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x294CF3",
+      "Skill": 1634,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC21537",
+      "Skill": 840,
+      "SquadId": 54
+    },
+    {
+      "ID": "0x8E1E36",
+      "Skill": 1300,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD11EB3",
+      "Skill": 1434,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8D58CA",
+      "Skill": 1432,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B411F",
+      "Skill": 1971,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB2EA7D",
+      "Skill": 1447,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB5143C",
+      "Skill": 1374,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x682255",
+      "Skill": 1189,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC66742",
+      "Skill": 1181,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB5374A",
+      "Skill": 2029,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB55009",
+      "Skill": 676,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xED05F9",
+      "Skill": 1323,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x572456",
+      "Skill": 1855,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x953D5B",
+      "Skill": 873,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAE0CBF",
+      "Skill": 1458,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x72F3B0",
+      "Skill": 2220,
+      "SquadId": 54
+    },
+    {
+      "ID": "0x4877AF",
+      "Skill": 1062,
+      "SquadId": 54
+    },
+    {
+      "ID": "0xA29CC7",
+      "Skill": 1017,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x550475",
+      "Skill": 1356,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEBC2F7",
+      "Skill": 2152,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x909099",
+      "Skill": 1302,
+      "SquadId": 55
+    },
+    {
+      "ID": "0xD3E226",
+      "Skill": 1401,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB4E321",
+      "Skill": 1204,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8CF76",
+      "Skill": 1502,
+      "SquadId": 55
+    },
+    {
+      "ID": "0x872422",
+      "Skill": 1572,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA359FA",
+      "Skill": 903,
+      "SquadId": 55
+    },
+    {
+      "ID": "0x39685D",
+      "Skill": 2171,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAF97B8",
+      "Skill": 1190,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1757A6",
+      "Skill": 865,
+      "SquadId": 55
+    },
+    {
+      "ID": "0x62CD07",
+      "Skill": 1921,
+      "SquadId": 56
+    },
+    {
+      "ID": "0xB141CD",
+      "Skill": 2052,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1204FD",
+      "Skill": 1410,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x37B48F",
+      "Skill": 1700,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC4F9EC",
+      "Skill": 2015,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x131346",
+      "Skill": 1297,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBC3881",
+      "Skill": 1656,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA0A13C",
+      "Skill": 513,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3517EE",
+      "Skill": 1378,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8AA6B9",
+      "Skill": 1593,
+      "SquadId": 56
+    },
+    {
+      "ID": "0x43F112",
+      "Skill": 1855,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1E4F4E",
+      "Skill": 2045,
+      "SquadId": 56
+    },
+    {
+      "ID": "0x4B7ED7",
+      "Skill": 1402,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84A387",
+      "Skill": 1251,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8CC442",
+      "Skill": 1018,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3C628F",
+      "Skill": 941,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x35A572",
+      "Skill": 1315,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD5ED7F",
+      "Skill": 1337,
+      "SquadId": 56
+    },
+    {
+      "ID": "0x4E54F3",
+      "Skill": 1193,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B3B32",
+      "Skill": 1850,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5B0C25",
+      "Skill": 1960,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD3BC3F",
+      "Skill": 1414,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x74095D",
+      "Skill": 1097,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x81332A",
+      "Skill": 1793,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1891D8",
+      "Skill": 1743,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB398F2",
+      "Skill": 1262,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x870C79",
+      "Skill": 2166,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2FD5B",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8DA9A3",
+      "Skill": 1359,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x178351",
+      "Skill": 1858,
+      "SquadId": 57
+    },
+    {
+      "ID": "0xC2A0DB",
+      "Skill": 1318,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB12E37",
+      "Skill": 1528,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x27CA9B",
+      "Skill": 1020,
+      "SquadId": 57
+    },
+    {
+      "ID": "0xD8387B",
+      "Skill": 1508,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE453E9",
+      "Skill": 1203,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC78069",
+      "Skill": 1675,
+      "SquadId": 57
+    },
+    {
+      "ID": "0xA68F61",
+      "Skill": 1509,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCCCA06",
+      "Skill": 1447,
+      "SquadId": 57
+    },
+    {
+      "ID": "0x1676E4",
+      "Skill": 1775,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E7A42",
+      "Skill": 1101,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD1014C",
+      "Skill": 1925,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9D38D",
+      "Skill": 1630,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA1203D",
+      "Skill": 1794,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFC7C66",
+      "Skill": 1040,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAED188",
+      "Skill": 1043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3ED6D2",
+      "Skill": 1323,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x406F7C",
+      "Skill": 1433,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC685AA",
+      "Skill": 1871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x507446",
+      "Skill": 1347,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2A1B8B",
+      "Skill": 1213,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x70F17B",
+      "Skill": 1221,
+      "SquadId": 58
+    },
+    {
+      "ID": "0xD2C2E7",
+      "Skill": 1835,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF1C066",
+      "Skill": 1719,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9903B4",
+      "Skill": 1077,
+      "SquadId": 58
+    },
+    {
+      "ID": "0xC71894",
+      "Skill": 1249,
+      "SquadId": 58
+    },
+    {
+      "ID": "0xC89363",
+      "Skill": 1897,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5BCC63",
+      "Skill": 1063,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9F8C79",
+      "Skill": 1615,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1A1EFE",
+      "Skill": 2122,
+      "SquadId": 58
+    },
+    {
+      "ID": "0xD48B38",
+      "Skill": 1346,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2EE46E",
+      "Skill": 1137,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7432E1",
+      "Skill": 1127,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4CEF29",
+      "Skill": 1554,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5FCD53",
+      "Skill": 2023,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF1C1B2",
+      "Skill": 1006,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x64033C",
+      "Skill": 1789,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD865C9",
+      "Skill": 1950,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC1A2FF",
+      "Skill": 1616,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB37B8F",
+      "Skill": 1658,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x374177",
+      "Skill": 1612,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2DE18",
+      "Skill": 1088,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB3C58",
+      "Skill": 1334,
+      "SquadId": 59
+    },
+    {
+      "ID": "0xA7FE55",
+      "Skill": 1941,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE947F2",
+      "Skill": 1916,
+      "SquadId": 59
+    },
+    {
+      "ID": "0x14F481",
+      "Skill": 913,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9DC70C",
+      "Skill": 1116,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F04CE",
+      "Skill": 951,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD3786",
+      "Skill": 1592,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8D342F",
+      "Skill": 1710,
+      "SquadId": 59
+    },
+    {
+      "ID": "0x9463B7",
+      "Skill": 1713,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x25413A",
+      "Skill": 1631,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EFF4F",
+      "Skill": 1871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x894246",
+      "Skill": 1342,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9CEB3E",
+      "Skill": 1331,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13A648",
+      "Skill": 1305,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x777890",
+      "Skill": 1354,
+      "SquadId": 59
+    },
+    {
+      "ID": "0x6FEBC7",
+      "Skill": 1129,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1FA2E",
+      "Skill": 1863,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9B24A3",
+      "Skill": 1116,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8668AB",
+      "Skill": 474,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2EA5B7",
+      "Skill": 1551,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EB7C5",
+      "Skill": 849,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEADCC6",
+      "Skill": 1389,
+      "SquadId": 60
+    },
+    {
+      "ID": "0x5043B9",
+      "Skill": 2103,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3C75F1",
+      "Skill": 932,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF02F4E",
+      "Skill": 1212,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8CAE4D",
+      "Skill": 2104,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB826AD",
+      "Skill": 1166,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC974B",
+      "Skill": 1044,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF597CB",
+      "Skill": 1356,
+      "SquadId": 60
+    },
+    {
+      "ID": "0x1FB85B",
+      "Skill": 1711,
+      "SquadId": 60
+    },
+    {
+      "ID": "0x4F428D",
+      "Skill": 2236,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEF029B",
+      "Skill": 1239,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAB3EBD",
+      "Skill": 1179,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1AB63",
+      "Skill": 1408,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x303F31",
+      "Skill": 1610,
+      "SquadId": 60
+    },
+    {
+      "ID": "0xC60CDA",
+      "Skill": 2654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F13BF",
+      "Skill": 1551,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9403BB",
+      "Skill": 1284,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49E70C",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13F2FB",
+      "Skill": 1964,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA7814",
+      "Skill": 1266,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x373CD4",
+      "Skill": 1464,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7ABDF8",
+      "Skill": 881,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF10294",
+      "Skill": 1323,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0F04A",
+      "Skill": 2120,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F5EB1",
+      "Skill": 1482,
+      "SquadId": 60
+    },
+    {
+      "ID": "0xAC10F8",
+      "Skill": 2192,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5ADE2C",
+      "Skill": 1810,
+      "SquadId": 60
+    },
+    {
+      "ID": "0xA05A7B",
+      "Skill": 1068,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x101D02",
+      "Skill": 1216,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCB6CFD",
+      "Skill": 1660,
+      "SquadId": 61
+    },
+    {
+      "ID": "0x7FD372",
+      "Skill": 1400,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC48826",
+      "Skill": 1655,
+      "SquadId": 61
+    },
+    {
+      "ID": "0x94DF0D",
+      "Skill": 1298,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BEA28",
+      "Skill": 1767,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5D5273",
+      "Skill": 1210,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6E29C9",
+      "Skill": 2017,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF93923",
+      "Skill": 1716,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC2D0E7",
+      "Skill": 1346,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB5146A",
+      "Skill": 1730,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD3E79A",
+      "Skill": 1735,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE8F4DF",
+      "Skill": 1235,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3A289A",
+      "Skill": 1855,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C059A",
+      "Skill": 882,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE6F8AD",
+      "Skill": 1003,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x88867D",
+      "Skill": 1744,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12DCA7",
+      "Skill": 537,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3C898A",
+      "Skill": 1497,
+      "SquadId": 61
+    },
+    {
+      "ID": "0xF48D96",
+      "Skill": 1806,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44BCC7",
+      "Skill": 1885,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2B14A",
+      "Skill": 2171,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBC74DA",
+      "Skill": 1141,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD39BF6",
+      "Skill": 1365,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA470CA",
+      "Skill": 1167,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6B6785",
+      "Skill": 1600,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66AD46",
+      "Skill": 1426,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA77CC",
+      "Skill": 917,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE90B27",
+      "Skill": 1464,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC3925",
+      "Skill": 1478,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3DBDA5",
+      "Skill": 1292,
+      "SquadId": 61
+    },
+    {
+      "ID": "0x684E56",
+      "Skill": 1637,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD92AE",
+      "Skill": 1756,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x77C65C",
+      "Skill": 1287,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x748340",
+      "Skill": 1190,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA99AFA",
+      "Skill": 1849,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB814D1",
+      "Skill": 1246,
+      "SquadId": 62
+    },
+    {
+      "ID": "0x1B64C9",
+      "Skill": 2189,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD88F34",
+      "Skill": 1164,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4A2884",
+      "Skill": 1259,
+      "SquadId": 62
+    },
+    {
+      "ID": "0x935873",
+      "Skill": 1465,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A8ADA",
+      "Skill": 1384,
+      "SquadId": 62
+    },
+    {
+      "ID": "0x301EF9",
+      "Skill": 1594,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44BFBC",
+      "Skill": 1620,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x91923B",
+      "Skill": 1707,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x602F02",
+      "Skill": 1315,
+      "SquadId": 62
+    },
+    {
+      "ID": "0xC0F899",
+      "Skill": 1909,
+      "SquadId": 62
+    },
+    {
+      "ID": "0xAB407E",
+      "Skill": 1220,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4430EC",
+      "Skill": 838,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF809D7",
+      "Skill": 1700,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x18A37D",
+      "Skill": 1293,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7BFC66",
+      "Skill": 1547,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB75385",
+      "Skill": 1268,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x650D4F",
+      "Skill": 1033,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FE594",
+      "Skill": 1695,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x226982",
+      "Skill": 1369,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8F44D4",
+      "Skill": 1936,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8F0011",
+      "Skill": 856,
+      "SquadId": 62
+    },
+    {
+      "ID": "0xE0C8D3",
+      "Skill": 2459,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC818EB",
+      "Skill": 1251,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1DFE96",
+      "Skill": 1620,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x33E224",
+      "Skill": 1433,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC4CB14",
+      "Skill": 1939,
+      "SquadId": 63
+    },
+    {
+      "ID": "0x547F7B",
+      "Skill": 727,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x725E4D",
+      "Skill": 2103,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD91407",
+      "Skill": 1331,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x921022",
+      "Skill": 1823,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7945CA",
+      "Skill": 1183,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x76273D",
+      "Skill": 1441,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1BDDAF",
+      "Skill": 1349,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC831FE",
+      "Skill": 1853,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC7B2D4",
+      "Skill": 1136,
+      "SquadId": 63
+    },
+    {
+      "ID": "0xD45772",
+      "Skill": 1495,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x240F04",
+      "Skill": 2068,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8CEBD4",
+      "Skill": 1400,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B7DF2",
+      "Skill": 1322,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4EC27A",
+      "Skill": 1502,
+      "SquadId": 63
+    },
+    {
+      "ID": "0x21F034",
+      "Skill": 1510,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x92B193",
+      "Skill": 2276,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x24F0DB",
+      "Skill": 1385,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x99CA07",
+      "Skill": 1339,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x244C3F",
+      "Skill": 1616,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x69E4F4",
+      "Skill": 1803,
+      "SquadId": 63
+    },
+    {
+      "ID": "0x7DB069",
+      "Skill": 1505,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB2BE5F",
+      "Skill": 1224,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x48221C",
+      "Skill": 2084,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x73BF4E",
+      "Skill": 1196,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB040FD",
+      "Skill": 1373,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9EA0E1",
+      "Skill": 2030,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCADA9E",
+      "Skill": 1578,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA15C94",
+      "Skill": 1184,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBCC5C4",
+      "Skill": 1758,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0ACC0",
+      "Skill": 1647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x286EEE",
+      "Skill": 1122,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF4A468",
+      "Skill": 1775,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE8F5D6",
+      "Skill": 1211,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC05C58",
+      "Skill": 2150,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCC8AC8",
+      "Skill": 1458,
+      "SquadId": 63
+    },
+    {
+      "ID": "0x2FFCD2",
+      "Skill": 1940,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x78EBED",
+      "Skill": 2142,
+      "SquadId": 63
+    },
+    {
+      "ID": "0x230B52",
+      "Skill": 1247,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE6A14",
+      "Skill": 1693,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD4D87F",
+      "Skill": 2121,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3F262C",
+      "Skill": 1249,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9B1115",
+      "Skill": 1124,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5A8C8F",
+      "Skill": 844,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA5A3C7",
+      "Skill": 1488,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x73F2DF",
+      "Skill": 1961,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFFC930",
+      "Skill": 2052,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF3B3CE",
+      "Skill": 2239,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x70FB2F",
+      "Skill": 1945,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD2AFA3",
+      "Skill": 1243,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFA7D38",
+      "Skill": 1426,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5EBB3A",
+      "Skill": 1501,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x61C6F8",
+      "Skill": 1410,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF1AE13",
+      "Skill": 948,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9F3566",
+      "Skill": 1729,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD89115",
+      "Skill": 1182,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2BBFA5",
+      "Skill": 1876,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C89AF",
+      "Skill": 1336,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA8E961",
+      "Skill": 919,
+      "SquadId": 64
+    },
+    {
+      "ID": "0x32BA0E",
+      "Skill": 1551,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x300B91",
+      "Skill": 1409,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F734E",
+      "Skill": 1387,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x182811",
+      "Skill": 2235,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF1676D",
+      "Skill": 1667,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA64340",
+      "Skill": 1833,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5B7066",
+      "Skill": 1388,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x36E72A",
+      "Skill": 1440,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x157202",
+      "Skill": 1939,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F1B07",
+      "Skill": 1904,
+      "SquadId": 64
+    },
+    {
+      "ID": "0xFF75E4",
+      "Skill": 1962,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x49928B",
+      "Skill": 1822,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF0A691",
+      "Skill": 1959,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x59D9AD",
+      "Skill": 1588,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D9194",
+      "Skill": 1616,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9A13DF",
+      "Skill": 1131,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x60C2FB",
+      "Skill": 1031,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB967F7",
+      "Skill": 1900,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8406E5",
+      "Skill": 1981,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1D1406",
+      "Skill": 1196,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6C1975",
+      "Skill": 1393,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC30D28",
+      "Skill": 1715,
+      "SquadId": 64
+    },
+    {
+      "ID": "0xCC93EB",
+      "Skill": 1303,
+      "SquadId": 64
+    },
+    {
+      "ID": "0x6A536C",
+      "Skill": 1296,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6330C7",
+      "Skill": 979,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE00886",
+      "Skill": 1342,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x304CB0",
+      "Skill": 1400,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BA6A3",
+      "Skill": 2533,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDA176A",
+      "Skill": 719,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x25269D",
+      "Skill": 1654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0232D",
+      "Skill": 917,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB1EF58",
+      "Skill": 1989,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE55868",
+      "Skill": 1950,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x54B3EC",
+      "Skill": 691,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2C5153",
+      "Skill": 1530,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBD76A7",
+      "Skill": 694,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x38BE04",
+      "Skill": 1496,
+      "SquadId": 65
+    },
+    {
+      "ID": "0x2F1486",
+      "Skill": 2271,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2B0A39",
+      "Skill": 1263,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E9497",
+      "Skill": 1805,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C19D2",
+      "Skill": 1609,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x435727",
+      "Skill": 1376,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x41380E",
+      "Skill": 1851,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBB8686",
+      "Skill": 1496,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDAC8E5",
+      "Skill": 2191,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBC92E7",
+      "Skill": 2025,
+      "SquadId": 65
+    },
+    {
+      "ID": "0x677189",
+      "Skill": 1448,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA955EC",
+      "Skill": 1736,
+      "SquadId": 65
+    },
+    {
+      "ID": "0xC64037",
+      "Skill": 1141,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEBD4AE",
+      "Skill": 1311,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE2A42",
+      "Skill": 1945,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA94E05",
+      "Skill": 1275,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x538996",
+      "Skill": 2032,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDAFDEE",
+      "Skill": 1504,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB32C19",
+      "Skill": 933,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF9A6A9",
+      "Skill": 1561,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x545A52",
+      "Skill": 1412,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x568F20",
+      "Skill": 1053,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6DB635",
+      "Skill": 1703,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDBF3B5",
+      "Skill": 1233,
+      "SquadId": 65
+    },
+    {
+      "ID": "0xDC273C",
+      "Skill": 1444,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x163D46",
+      "Skill": 2152,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7EE453",
+      "Skill": 943,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x61C87A",
+      "Skill": 1649,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x233EA4",
+      "Skill": 1560,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x78A08B",
+      "Skill": 853,
+      "SquadId": 65
+    },
+    {
+      "ID": "0xA18E9B",
+      "Skill": 1859,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x383FED",
+      "Skill": 1633,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x113008",
+      "Skill": 2028,
+      "SquadId": 66
+    },
+    {
+      "ID": "0x2EC59E",
+      "Skill": 934,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC3D2FD",
+      "Skill": 1894,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4D3438",
+      "Skill": 1872,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE9078",
+      "Skill": 721,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC93067",
+      "Skill": 1504,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA16669",
+      "Skill": 1103,
+      "SquadId": 66
+    },
+    {
+      "ID": "0xF94EA9",
+      "Skill": 1214,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDD1FD3",
+      "Skill": 2174,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3B78F2",
+      "Skill": 2509,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEE3647",
+      "Skill": 2282,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4EDFBC",
+      "Skill": 1518,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC79D10",
+      "Skill": 1513,
+      "SquadId": 67
+    },
+    {
+      "ID": "0xAA0CF9",
+      "Skill": 1480,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0D656",
+      "Skill": 755,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAA214D",
+      "Skill": 2043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAD2B0A",
+      "Skill": 1666,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2A54BF",
+      "Skill": 1248,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF33A31",
+      "Skill": 603,
+      "SquadId": 67
+    },
+    {
+      "ID": "0xF3A146",
+      "Skill": 1807,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB94BB",
+      "Skill": 2131,
+      "SquadId": 68
+    },
+    {
+      "ID": "0xA1225D",
+      "Skill": 1591,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7B0E5A",
+      "Skill": 1678,
+      "SquadId": 68
+    },
+    {
+      "ID": "0x113F15",
+      "Skill": 1091,
+      "SquadId": 69
+    },
+    {
+      "ID": "0xF14ED4",
+      "Skill": 1910,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F07A5",
+      "Skill": 1472,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2161D",
+      "Skill": 1590,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9188E1",
+      "Skill": 827,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x789BC7",
+      "Skill": 1200,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x50CBDE",
+      "Skill": 1517,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9612F",
+      "Skill": 1345,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xACD190",
+      "Skill": 1492,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5BE0B2",
+      "Skill": 965,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE83520",
+      "Skill": 1530,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4C1356",
+      "Skill": 979,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF044CF",
+      "Skill": 1538,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44FE94",
+      "Skill": 1290,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDF72E7",
+      "Skill": 1311,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB157EC",
+      "Skill": 1936,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6539C6",
+      "Skill": 1622,
+      "SquadId": 69
+    },
+    {
+      "ID": "0xCCC3A5",
+      "Skill": 963,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x87ADBB",
+      "Skill": 2135,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC36280",
+      "Skill": 2291,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD697C6",
+      "Skill": 1603,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD0091",
+      "Skill": 1842,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC97CD1",
+      "Skill": 1899,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC27986",
+      "Skill": 2052,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x92E03F",
+      "Skill": 1152,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13578E",
+      "Skill": 1299,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x22E2A0",
+      "Skill": 1387,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA69C4D",
+      "Skill": 1649,
+      "SquadId": 69
+    },
+    {
+      "ID": "0x869A01",
+      "Skill": 1439,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7CB22E",
+      "Skill": 1936,
+      "SquadId": 70
+    },
+    {
+      "ID": "0xA40679",
+      "Skill": 1609,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDF8651",
+      "Skill": 1669,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1065E9",
+      "Skill": 1331,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB0136F",
+      "Skill": 1507,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x79D277",
+      "Skill": 1886,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBE2BDC",
+      "Skill": 1379,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA3A6A6",
+      "Skill": 1247,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA31E28",
+      "Skill": 944,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x75C05F",
+      "Skill": 1475,
+      "SquadId": 70
+    },
+    {
+      "ID": "0x92E188",
+      "Skill": 1236,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE2B4BA",
+      "Skill": 2131,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x174C55",
+      "Skill": 1582,
+      "SquadId": 70
+    },
+    {
+      "ID": "0x2523E1",
+      "Skill": 684,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x877E5A",
+      "Skill": 970,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x32D83D",
+      "Skill": 1742,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEC900A",
+      "Skill": 1495,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF32116",
+      "Skill": 1741,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x91FD92",
+      "Skill": 2185,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB9463A",
+      "Skill": 719,
+      "SquadId": 70
+    },
+    {
+      "ID": "0x2A7B02",
+      "Skill": 2208,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC1BF8C",
+      "Skill": 2059,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1C5977",
+      "Skill": 1443,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF42041",
+      "Skill": 745,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x150E2A",
+      "Skill": 974,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8E06CB",
+      "Skill": 1168,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x908D3F",
+      "Skill": 2605,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE4DF90",
+      "Skill": 1486,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x56B242",
+      "Skill": 1761,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA9657C",
+      "Skill": 1605,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEB40C3",
+      "Skill": 855,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA1B559",
+      "Skill": 1475,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x712B43",
+      "Skill": 973,
+      "SquadId": 70
+    },
+    {
+      "ID": "0x82357B",
+      "Skill": 969,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x562B81",
+      "Skill": 860,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB67CD3",
+      "Skill": 843,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA7F7A7",
+      "Skill": 1485,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xACCE90",
+      "Skill": 1276,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x13CE3B",
+      "Skill": 1395,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x257923",
+      "Skill": 1437,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF6BC9A",
+      "Skill": 1686,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F520C",
+      "Skill": 1783,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5C9B2E",
+      "Skill": 1828,
+      "SquadId": 70
+    },
+    {
+      "ID": "0x298D1C",
+      "Skill": 1781,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBB12C0",
+      "Skill": 1188,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x75C7B6",
+      "Skill": 1757,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAE72E1",
+      "Skill": 1010,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB599A1",
+      "Skill": 1707,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8BC2C6",
+      "Skill": 750,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x20552A",
+      "Skill": 747,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7FBBDD",
+      "Skill": 1654,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF8F7A4",
+      "Skill": 1652,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x40C872",
+      "Skill": 1531,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF41ADA",
+      "Skill": 1750,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA8FE98",
+      "Skill": 1233,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x72AB23",
+      "Skill": 2233,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA9AC90",
+      "Skill": 1426,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6B3058",
+      "Skill": 1047,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2C7A15",
+      "Skill": 1201,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF62882",
+      "Skill": 1203,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3EA7EF",
+      "Skill": 1548,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAE3F82",
+      "Skill": 1043,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBDF312",
+      "Skill": 1562,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE18226",
+      "Skill": 1006,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD5FEC2",
+      "Skill": 1320,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAA6DFF",
+      "Skill": 1211,
+      "SquadId": 71
+    },
+    {
+      "ID": "0xFC8391",
+      "Skill": 1237,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9E4AE7",
+      "Skill": 1012,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD383EA",
+      "Skill": 1467,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x228774",
+      "Skill": 1645,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9F58A8",
+      "Skill": 1795,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE8C70C",
+      "Skill": 1721,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2F3006",
+      "Skill": 1800,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF6E628",
+      "Skill": 1691,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE1ECC7",
+      "Skill": 1327,
+      "SquadId": 71
+    },
+    {
+      "ID": "0xF04185",
+      "Skill": 1669,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2D99DB",
+      "Skill": 1592,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F8C82",
+      "Skill": 1585,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x45851A",
+      "Skill": 1593,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE7D62E",
+      "Skill": 1520,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x550B90",
+      "Skill": 874,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x15E896",
+      "Skill": 1659,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x48FA98",
+      "Skill": 1204,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x936DF4",
+      "Skill": 2000,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x123665",
+      "Skill": 1032,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3789BB",
+      "Skill": 1793,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC5C324",
+      "Skill": 1605,
+      "SquadId": 71
+    },
+    {
+      "ID": "0xA1A665",
+      "Skill": 954,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x23C7FD",
+      "Skill": 1520,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x582768",
+      "Skill": 1365,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBDEAD3",
+      "Skill": 1099,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC6D98C",
+      "Skill": 1438,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF2288A",
+      "Skill": 815,
+      "SquadId": 71
+    },
+    {
+      "ID": "0x621ED5",
+      "Skill": 1493,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x75E8E6",
+      "Skill": 1091,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE862CF",
+      "Skill": 1454,
+      "SquadId": 72
+    },
+    {
+      "ID": "0x831537",
+      "Skill": 1553,
+      "SquadId": 72
+    },
+    {
+      "ID": "0xD41BDF",
+      "Skill": 1843,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CE3FD",
+      "Skill": 1947,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF3DA09",
+      "Skill": 647,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x160763",
+      "Skill": 1704,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xCE2186",
+      "Skill": 1849,
+      "SquadId": 72
+    },
+    {
+      "ID": "0xC418CF",
+      "Skill": 1667,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x329C81",
+      "Skill": 1871,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66C6C0",
+      "Skill": 1890,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9D763",
+      "Skill": 1361,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7AAF22",
+      "Skill": 1507,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA2C0B3",
+      "Skill": 1974,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB901FC",
+      "Skill": 1576,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBD23CB",
+      "Skill": 2367,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7BBFDB",
+      "Skill": 1449,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x84A988",
+      "Skill": 733,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAC73AC",
+      "Skill": 429,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x121587",
+      "Skill": 1241,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x83CB37",
+      "Skill": 1398,
+      "SquadId": 73
+    },
+    {
+      "ID": "0x258584",
+      "Skill": 1290,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x17F2BF",
+      "Skill": 1388,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFD5B82",
+      "Skill": 1314,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x77FAC1",
+      "Skill": 1160,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD1A27C",
+      "Skill": 1409,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6B2ADA",
+      "Skill": 994,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x40E044",
+      "Skill": 1601,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x44A8BF",
+      "Skill": 1297,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3E0FD4",
+      "Skill": 2925,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5620E5",
+      "Skill": 1305,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD1733E",
+      "Skill": 2245,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x24EC4B",
+      "Skill": 1331,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x58248E",
+      "Skill": 2033,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB7F5BD",
+      "Skill": 1406,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x12AABF",
+      "Skill": 1431,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6AE84D",
+      "Skill": 1854,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB8C871",
+      "Skill": 1771,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5CEAFC",
+      "Skill": 925,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA36E16",
+      "Skill": 1694,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB6041B",
+      "Skill": 902,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFCAAA7",
+      "Skill": 1627,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5736B6",
+      "Skill": 1558,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1F8350",
+      "Skill": 1672,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBAEDB6",
+      "Skill": 1663,
+      "SquadId": 73
+    },
+    {
+      "ID": "0x66CB8A",
+      "Skill": 2012,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x2EE287",
+      "Skill": 2075,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDBA35A",
+      "Skill": 1415,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA558A1",
+      "Skill": 1909,
+      "SquadId": 73
+    },
+    {
+      "ID": "0x815B61",
+      "Skill": 1393,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xAB90DB",
+      "Skill": 955,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE005FC",
+      "Skill": 1461,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x531E7A",
+      "Skill": 1276,
+      "SquadId": 73
+    },
+    {
+      "ID": "0x158F69",
+      "Skill": 1278,
+      "SquadId": 73
+    },
+    {
+      "ID": "0x5B95F8",
+      "Skill": 2359,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x8C892F",
+      "Skill": 1918,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC46910",
+      "Skill": 1287,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA7C6F2",
+      "Skill": 1547,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FC852",
+      "Skill": 1236,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDAC2C3",
+      "Skill": 1515,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x167505",
+      "Skill": 1722,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEA1452",
+      "Skill": 1291,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x57BA46",
+      "Skill": 1315,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD7ADE1",
+      "Skill": 1686,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9F22D3",
+      "Skill": 1665,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE76D03",
+      "Skill": 1583,
+      "SquadId": 74
+    },
+    {
+      "ID": "0xEEA170",
+      "Skill": 1373,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x664650",
+      "Skill": 2248,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF66BFB",
+      "Skill": 1392,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xD239AE",
+      "Skill": 1991,
+      "SquadId": 74
+    },
+    {
+      "ID": "0x44A597",
+      "Skill": 1624,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9171F5",
+      "Skill": 762,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1711EE",
+      "Skill": 2119,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9E6CCF",
+      "Skill": 1991,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x66FC95",
+      "Skill": 471,
+      "SquadId": 74
+    },
+    {
+      "ID": "0xAA85CD",
+      "Skill": 1668,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE41088",
+      "Skill": 1867,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7036F7",
+      "Skill": 1040,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xA55A84",
+      "Skill": 1292,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x4B58BF",
+      "Skill": 1507,
+      "SquadId": 74
+    },
+    {
+      "ID": "0x604AC1",
+      "Skill": 986,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDC6965",
+      "Skill": 1988,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFE7FBA",
+      "Skill": 1581,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x321DFF",
+      "Skill": 1706,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xC9E932",
+      "Skill": 2398,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xEBE2D8",
+      "Skill": 1844,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3D43E2",
+      "Skill": 1779,
+      "SquadId": 75
+    },
+    {
+      "ID": "0x8D541A",
+      "Skill": 853,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6D5F6C",
+      "Skill": 1314,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F78E4",
+      "Skill": 1018,
+      "SquadId": 75
+    },
+    {
+      "ID": "0x4A5612",
+      "Skill": 1400,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF16D44",
+      "Skill": 808,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF2FA7D",
+      "Skill": 2088,
+      "SquadId": 75
+    },
+    {
+      "ID": "0xB612B6",
+      "Skill": 1246,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x7C8957",
+      "Skill": 2077,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE66804",
+      "Skill": 1752,
+      "SquadId": 76
+    },
+    {
+      "ID": "0x610FF2",
+      "Skill": 2051,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6021B5",
+      "Skill": 1025,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xDEE5B3",
+      "Skill": 1544,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE3F37C",
+      "Skill": 1649,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x9FDD48",
+      "Skill": 1449,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xE60ECA",
+      "Skill": 868,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x290D9A",
+      "Skill": 1910,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6A489E",
+      "Skill": 1306,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xFB7F94",
+      "Skill": 889,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x217503",
+      "Skill": 1674,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x6F01BA",
+      "Skill": 1830,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB7DEBA",
+      "Skill": 1456,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x5F9028",
+      "Skill": 1333,
+      "SquadId": 76
+    },
+    {
+      "ID": "0x374392",
+      "Skill": 1076,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBBB1D1",
+      "Skill": 1353,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x1FDF27",
+      "Skill": 1951,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xBCE974",
+      "Skill": 1087,
+      "SquadId": 76
+    },
+    {
+      "ID": "0x1071EA",
+      "Skill": 1314,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF22B7E",
+      "Skill": 1250,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x53EB64",
+      "Skill": 1641,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xF6E8CA",
+      "Skill": 1153,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x85D6E0",
+      "Skill": 1619,
+      "SquadId": -1
+    },
+    {
+      "ID": "0x3C989A",
+      "Skill": 1376,
+      "SquadId": -1
+    },
+    {
+      "ID": "0xB3C551",
+      "Skill": 1924,
+      "SquadId": -1
+    }
+  ]
+}

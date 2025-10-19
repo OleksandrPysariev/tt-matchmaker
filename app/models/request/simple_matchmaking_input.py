@@ -1,15 +1,18 @@
-from app.models.common.player import Player
+from typing import Annotated
+
+from pydantic import Field
+
+from app.models.common.player import Player, SquadPlayer, WaitlistSquadPlayer
 from app.models.common.simple_matchmaking import SimpleMatchmaking, SquadMatchmaking, WaitlistSquadMatchmaking
-from app.models.request.player_input import PlayerInput, SquadPlayerInput, WaitlistSquadPlayerInput
 
 
 class SimpleMatchmakingInput(SimpleMatchmaking):
-    players: list[Player]
+    players: Annotated[list[Player], Field(max_length=2000, min_length=1000)]
 
 
 class SquadMatchmakingInput(SquadMatchmaking):
-    players: list[SquadPlayerInput]
+    players: list[SquadPlayer]
 
 
 class WaitlistSquadMatchmakingInput(WaitlistSquadMatchmaking):
-    players: list[WaitlistSquadPlayerInput]
+    players: list[WaitlistSquadPlayer]

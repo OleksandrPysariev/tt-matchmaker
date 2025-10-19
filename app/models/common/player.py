@@ -13,6 +13,9 @@ class Player(BaseModel):
         examples=[12, 812, 264]
     )
 
+    def __repr__(self):
+        return f"{self.id}: skill {self.skill}"
+
 
 class SquadPlayer(Player):
     squad_id: int = Field(
@@ -21,9 +24,12 @@ class SquadPlayer(Player):
         examples=[-1, 157, 22]
     )
 
+    def __repr__(self):
+        return f"{self.id}: skill {self.skill}, squad {self.squad_id}"
+
 
 class WaitlistSquadPlayer(SquadPlayer):
-    wait_time_sec = Field(
+    wait_time_sec: int = Field(
         alias="WaitTimeSec",
         description="Wait time of player in queue in seconds.",
         examples=[0, 5, 360]
