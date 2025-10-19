@@ -63,9 +63,7 @@ class SquadMatchmakingService(BaseMatchmakingService):
                 team1, team2 = SquadTeam(), SquadTeam()
                 skill_sum1, skill_sum2 = 0, 0
             # Try to add to team1 first if it has lower or equal skill sum and has space
-            elif (
-                len(team1.players) + num_players <= self.MAX_PLAYERS
-            ) and (
+            elif (len(team1.players) + num_players <= self.MAX_PLAYERS) and (
                 skill_sum1 <= skill_sum2 or not (len(team2.players) + num_players <= self.MAX_PLAYERS)
             ):
                 for player in players_to_add:

@@ -1,6 +1,6 @@
 from typing import Annotated
 
-from pydantic import BaseModel, Field
+from pydantic import Field
 
 from app.models.common.match import Match
 from app.models.response.player_output import (

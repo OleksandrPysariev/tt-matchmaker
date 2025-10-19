@@ -3,11 +3,10 @@ from typing import TypeVar, Generic, Type
 
 from app.models.common.player import Player, SquadPlayer, WaitlistSquadPlayer
 
-PlayerType = TypeVar('PlayerType', bound=Player)
+PlayerType = TypeVar("PlayerType", bound=Player)
 
 
 class BasePlayersDB(Generic[PlayerType]):
-
     def __init__(self, player_class: Type[PlayerType]) -> None:
         self.player_class = player_class
         self._storage: list[PlayerType] = []

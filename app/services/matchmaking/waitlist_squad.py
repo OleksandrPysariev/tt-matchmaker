@@ -3,8 +3,8 @@ from collections import defaultdict
 
 from app.config.settings import settings
 from app.models.common.match import Match, WaitlistSquadMatch
-from app.models.common.player import SquadPlayer, WaitlistSquadPlayer
-from app.models.common.team import SquadTeam, WaitlistSquadTeam
+from app.models.common.player import WaitlistSquadPlayer
+from app.models.common.team import WaitlistSquadTeam
 from app.services.matchmaking.base import BaseMatchmakingService
 from app.storage.players_db import BasePlayersDB
 
@@ -39,20 +39,19 @@ class WaitlistSquadMatchmakingService(BaseMatchmakingService):
         for squad_id, squad_members in squads_dict.items():
             # Find earliest timestamp in squad (player who joined first)
             earliest_timestamp = min(p.epoch_timestamp for p in squad_members)
-            squads.append({
-                "members": squad_members,
-                "avg_skill": round(sum(p.skill for p in squad_members) / len(squad_members), 1),
-                "wait_time": current_time - earliest_timestamp,
-                "earliest_timestamp": earliest_timestamp
-            })
+            squads.append(
+                {
+                    "members": squad_members,
+                    "avg_skill": round(sum(p.skill for p in squad_members) / len(squad_members), 1),
+                    "wait_time": current_time - earliest_timestamp,
+                    "earliest_timestamp": earliest_timestamp,
+                }
+            )
 
         # 6. sort squads and players by wait time (prioritize longer waits), then by skill for balance
         # Sort by wait time descending (longer waits first), then by skill descending for tie-breaking
         sorted_squads = list(sorted(squads, key=lambda s: (-s["wait_time"], -s["avg_skill"])))
-        sorted_solo_players = list(sorted(
-            solo_players,
-            key=lambda p: (-(current_time - p.epoch_timestamp), -p.skill)
-        ))
+        sorted_solo_players = list(sorted(solo_players, key=lambda p: (-(current_time - p.epoch_timestamp), -p.skill)))
 
         resulting_matches = []
         team1, team2 = WaitlistSquadTeam(), WaitlistSquadTeam()
@@ -76,9 +75,7 @@ class WaitlistSquadMatchmakingService(BaseMatchmakingService):
                 team1, team2 = WaitlistSquadTeam(), WaitlistSquadTeam()
                 skill_sum1, skill_sum2 = 0, 0
             # Try to add to team1 first if it has lower or equal skill sum and has space
-            elif (
-                len(team1.players) + num_players <= self.MAX_PLAYERS
-            ) and (
+            elif (len(team1.players) + num_players <= self.MAX_PLAYERS) and (
                 skill_sum1 <= skill_sum2 or not (len(team2.players) + num_players <= self.MAX_PLAYERS)
             ):
                 for player in players_to_add:
